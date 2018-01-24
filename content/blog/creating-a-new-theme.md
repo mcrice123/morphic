@@ -1,7 +1,7 @@
 +++
-author = "Theme author"
-categories = ["Hugo"]
-date = "2014-09-28"
+author = "Maria Rice"
+categories = ["Book1"]
+date = "2018-01-01"
 description = "Learn how to create a theme on Hugo"
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
@@ -9,7 +9,7 @@ featuredpath = "date"
 linktitle = ""
 title = "Creating a New Theme"
 type = "post"
-
+weight = 2
 +++
 
 ## Introduction

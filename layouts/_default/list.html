@@ -4,7 +4,6 @@
     {{ partial "navbar" . }}
     <!-- Main -->
     <div id="main">
-    <p>testing _default/list.html</p>
         {{ $paginator := .Paginate .Data.Pages }}
         {{ range .Paginator.Pages }}
             {{ .Render "content-list" }}
