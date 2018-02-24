@@ -1,0 +1,15 @@
+{{ if and (isset .Params "preview") (ne .Params.preview "") }}
+    {{ $.Scratch.Set "path" .Params.preview }}
+
+    {{ if and (isset .Params "featured") (ne .Params.preview "") }}
+        {{ $.Scratch.Set "structType" "page" }}
+        {{ partial "img-path" . }}
+        {{ $path := $.Scratch.Get "path" }}
+        {{ $alt := $.Scratch.Get "alt" }}
+        {{ $img := $.Scratch.Get "img" }}
+
+        <a href="{{ .RelPermalink }}" class="image preview">
+            <img src="{{ $path | relURL }}/{{ .Params.featured }}" alt="{{ $alt }}">
+        </a>
+    {{ end }}
+{{ end }}

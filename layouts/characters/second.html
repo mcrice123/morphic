@@ -1,0 +1,13 @@
+{{ if and (isset .Params "secpath") (ne .Params.secpath "") }}
+    {{ $.Scratch.Set "path" .Params.secpath }}
+
+    {{ $.Scratch.Set "structType" "page" }}
+    {{ partial "img-path" . }}
+    {{ $path := $.Scratch.Get "path" }}
+    {{ $alt := $.Scratch.Get "alt" }}
+    {{ $img := $.Scratch.Get "img" }}
+
+    <a class="image second">
+        <img src="{{ $path | relURL }}/{{ .Params.featured }}" alt="{{ $alt }}">
+    </a>
+{{ end }}

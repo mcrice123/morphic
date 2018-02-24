@@ -1,0 +1,47 @@
+<div class="single">
+    <div class="images">
+        {{ .Render "featured" }}
+        {{ .Render "second" }}
+    </div>
+    <div id="details">
+        <h1 class="title">{{ .Params.Name }}</h1>
+        <ul class="first-column">
+            <li>
+                Species: {{ .Params.Species | title }}
+                {{ if eq .Params.Species "morphic" }}
+                    <ul>
+                        {{ range $key, $value := .Params.subcategories }}
+                            <li>{{ $value | title }}</li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            </li>
+            {{ if eq .Params.Species "morphic" }}
+                <li>Age: [Classified]</li>
+            {{ else }}
+                <li>Age: {{ .Params.age }} years</li>
+            {{ end }}
+            {{ if gt .Params.rank 0 }}
+                <li>Level: {{ .Params.rank }}</li>
+            {{ end }}
+            {{ if gt (len .Params.Abilities) 0 }}
+                <li>Abilities:
+                    <ul>
+                        {{ range $key, $value := .Params.Abilities }}
+                            <li>{{ $value | title }}</li>
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ end }}
+        </ul>
+        <ul class="second-column">
+            <li>Hair: {{ .Params.hair | title }}</li>
+            <li>Eyes: {{ .Params.eyes | title }}</li>
+            {{ if eq .Params.Species "morphic" }}
+                <li>Glow: {{ .Params.glow | title }}</li>
+            {{ end }}
+        </ul>
+
+        <div id="bio">{{ .Content }}</div>
+    </div>
+</div>

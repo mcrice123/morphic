@@ -1,20 +1,61 @@
 +++
+menu = "main"
+name = 'about'
+url = '/about'
 title = "About Morphic"
 author = "Maria Rice"
-type = "post"
-weight = 1
+description = "My Awesome Hobby"
+type = "about"
+weight = 2
 date = "2018-01-23"
-slug = "about time"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+# The Author
+**My name is Maria Rice** and I am a web developer by trade 
+with a passion for reading web comics, graphic novels, comic 
+books, etc. **And I enjoy comics so much that I make one of 
+my very own!**
 
-![about](../img/Test/page7.jpg)
 
-### Necessitatibus
+# The Plot
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+Meet Erica "Errie" Bright, a regular teenaged girl who 
+discovers the existence of powerful beings called Morphics 
+just outside her hometown of Ash Root.
 
-### Fugit, laboriosam
+### What are 'Morphics'?
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+Powerful beings with the ability to switch between either of 
+two forms:
+  
+  1. That of an animal
+  2. That which is similar to a human, but with some animal 
+  features corresponding to their animal form.
+
+A Morphic can have more abilities in addition to his/her 
+transformation ability.
+
+# History
+
+I wrote the first finished plot line for "Morphic" in the 
+spring of 2016. I posted the first drawn pages in September 
+of that same year and have been uploading pages weekly ever 
+since. 
+
+"Morphic" was going to be a 5-book series, but after 
+discovering how much time and effort it takes to produce 
+one book, I changed it to a 3-book series.
+
+# Medium
+
+Although I hope to gradually add color to the pages as the 
+project grows, for now I show it in the original black and 
+white to keep the story going. I draw the pages with black 
+ink pen and add the speech bubbles with 
+[GIMP](https://www.gimp.org/).
+
+# Thanks For Visiting
+
+With immense gratitude, I welcome you to view my work and
+leave some constructive feedback. I hope you enjoy the story 
+as much as I enjoy creating it!

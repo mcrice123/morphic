@@ -57,7 +57,7 @@
                 {{ ($.Scratch.Get "dateType").Format "January 2, 2006" }}
               </time>
             </header>
-            {{ .Render "featured" }}
+            {{ .Render "preview" }}
           </article>
         {{ end }}
       </div>
@@ -95,7 +95,7 @@
           <article>
             <header>
               {{ if ne $value.Name "" }}
-                <a href="/categories/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+                <a href="/categories/{{ $value.Name | urlize }}/">{{ $value.Name | title }}</a>
                 <span style="float:right;">{{ $value.Count }}</span>
               {{ else }}
                 Uncategorized

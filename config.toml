@@ -1,13 +1,12 @@
 languageCode = "en-us"
 title = "Morphic Graphic Novel Series"
-# baseURL = "http://morphic.com/"
-
-baseurl = "morphic.com"
-# title = "Hugo Future Imperfect"
+baseurl = "mcrice123.github.io/morphic/"
+publishDir = "docs"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
-disqusShortname = "maria_rice"
+paginate = 5
+# disqusShortname = "maria_rice"
+disqusShortname = ""
 googleAnalytics = ""
 pluralizeListTitles = false
 
@@ -29,7 +28,7 @@ pluralizeListTitles = false
   socialAppearAtTop    = true
   socialAppearAtBottom = true
   # Sets Categories to sort by number of posts instead of alphabetical
-  categoriesByCount    = true
+  categoriesByCount    = false
   # Sets Estimated Reading Time to appear in post headers
   includeReadingTime   = true
   # Sets the Favicon and Version for the site. Default support is for
@@ -70,12 +69,12 @@ pluralizeListTitles = false
 
   paragraph = "A fantasy graphic novel series by Maria Rice"
 
-  about     = "A story about a girl who discovers Morphics--people who take the form of animals."
+  about     = "Meet Erica 'Errie' Bright, a regular teenaged girl who discovers the existence of powerful beings called Morphics just outside her hometown of Ash Root."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/logo.jpg"
+    src       = "/img/main/wolflogo.jpg"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
@@ -95,11 +94,11 @@ pluralizeListTitles = false
   #identifier = "fa fa-home"
   weight = 1
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
+#[[menu.main]]
+ # name = "About"
+ # url = "/about/"
   #identifier = "fa fa-id-card-o"
-  weight = 2
+ # weight = 2
 
 [[menu.main]]
   name = "Blog"
@@ -113,12 +112,17 @@ pluralizeListTitles = false
   #identifier = "fa fa-sitemap"
   weight = 4
 
+[[menu.main]]
+  name = "Main Cast"
+  url = "/characters/"
+  weight = 5
+
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github          = "jpescador/hugo-future-imperfect"
+  github          = "mcrice123"
   #gitlab          = ""
   #stackoverflow   = "" # User Number
   #bitbucket       = ""
@@ -138,7 +142,7 @@ pluralizeListTitles = false
   #xing            = ""
   #slideshare      = ""
   # Social Networks
-  facebook        = "example"
+  facebook        = "MorphicGraphicNovel"
   #googleplus      = ""
   #reddit          = "example"
   #quora           = ""
