@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Morphic Graphic Novel Series"
-baseurl = "https://mcrice123.github.io/morphic/"
+baseURL = "https://mcrice123.github.io/morphic/"
 publishDir = "docs"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
