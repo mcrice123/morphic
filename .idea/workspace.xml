@@ -2,82 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-01.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-01.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-02.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-02.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-03.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-03.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-04.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-04.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-05.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-05.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-06.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-06.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-07.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-07.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-08.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-08.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-09.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-09.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-10.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-10.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-11.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-11.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-12.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-12.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-13.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-13.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-14.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-14.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-15.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-15.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-16.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-16.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-17.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-17.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-18.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-18.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-19.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-19.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-20.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-20.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-21.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-21.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-22.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-22.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-23.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-23.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-24.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-24.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-25.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-25.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-26.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-26.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-27.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-27.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-28.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-28.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-29.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-29.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-30.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-30.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-31.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-31.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-32.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-32.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-33.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-33.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-34.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-34.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-35.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-35.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-36.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-36.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-37.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-37.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-38.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-38.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-39.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-39.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-40.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-40.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-41.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-41.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-42.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-42.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-43.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-43.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-44.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-44.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-45.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-45.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-46.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-46.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-47.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-47.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-48.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-48.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-49.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-49.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-50.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-50.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-51.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-51.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-52.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-52.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-53.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-53.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-54.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-54.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-55.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-55.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-56.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-56.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-57.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-57.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-58.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-58.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-59.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-59.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-60.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-60.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-61.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-61.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-62.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-62.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-63.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-63.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-64.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-64.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-65.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-65.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-66.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-66.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-67.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-67.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-68.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-68.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-69.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-69.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-70.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-70.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-71.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-71.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-72.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-72.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-73.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-73.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-74.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-74.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/christmas-2016.md" afterPath="$PROJECT_DIR$/content/blog/christmas-2016.md" />
-      <change beforePath="$PROJECT_DIR$/content/blog/christmas-2017.md" afterPath="$PROJECT_DIR$/content/blog/christmas-2017.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/canissandro.md" afterPath="$PROJECT_DIR$/content/characters/canissandro.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/capri.md" afterPath="$PROJECT_DIR$/content/characters/capri.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/chan.md" afterPath="$PROJECT_DIR$/content/characters/chan.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/errie.md" afterPath="$PROJECT_DIR$/content/characters/errie.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/lane.md" afterPath="$PROJECT_DIR$/content/characters/lane.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/nascha.md" afterPath="$PROJECT_DIR$/content/characters/nascha.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/sirena.md" afterPath="$PROJECT_DIR$/content/characters/sirena.md" />
+      <change beforePath="$PROJECT_DIR$/content/characters/wolf.md" afterPath="$PROJECT_DIR$/content/characters/wolf.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,125 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="book-1-page-09.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-09.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-08.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-08.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-07.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-07.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-06.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-06.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-05.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-05.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-04.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-04.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-03.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-03.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-02.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-02.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book-1-page-01.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-01.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -241,14 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-51.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-50.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-49.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-48.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-47.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-46.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-45.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-44.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-43.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-42.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-41.md" />
@@ -292,6 +98,14 @@
         <option value="$PROJECT_DIR$/content/blog/book-1-page-03.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-02.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-01.md" />
+        <option value="$PROJECT_DIR$/content/characters/canissandro.md" />
+        <option value="$PROJECT_DIR$/content/characters/capri.md" />
+        <option value="$PROJECT_DIR$/content/characters/chan.md" />
+        <option value="$PROJECT_DIR$/content/characters/errie.md" />
+        <option value="$PROJECT_DIR$/content/characters/lane.md" />
+        <option value="$PROJECT_DIR$/content/characters/nascha.md" />
+        <option value="$PROJECT_DIR$/content/characters/sirena.md" />
+        <option value="$PROJECT_DIR$/content/characters/wolf.md" />
       </list>
     </option>
   </component>
@@ -430,12 +244,12 @@
       <workItem from="1519424088382" duration="7232000" />
       <workItem from="1519490712476" duration="1116000" />
       <workItem from="1519496033014" duration="6763000" />
-      <workItem from="1519654398186" duration="5490000" />
+      <workItem from="1519654398186" duration="5672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82883000" />
+    <option name="totallyTimeSpent" value="83065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -470,94 +284,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-51.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-50.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-49.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-48.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-47.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-46.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-45.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-44.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-43.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -936,7 +662,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
-            <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
@@ -969,7 +695,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="136">
-            <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1013,7 +739,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="119">
-            <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1024,7 +750,95 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="255">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/canissandro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/capri.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/chan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/errie.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/lane.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/nascha.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/sirena.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/characters/wolf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

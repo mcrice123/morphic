@@ -9,8 +9,8 @@ subcategories = ["goat", "rogue"]
 rank = 2
 abilities = ["Healing", "Plant Manipulation"]
 date = "2018-02-22T14:37:47-06:00"
-firstpath = "../../img/char_pic/capri.jpg"
-secpath = "../../img/char_pic/capri_goat.jpg"
+firstpath = "/img/char_pic/capri.jpg"
+secpath = "/img/char_pic/capri_goat.jpg"
 type = "characters"
 
 +++

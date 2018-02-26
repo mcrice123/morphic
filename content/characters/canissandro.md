@@ -9,8 +9,8 @@ subcategories = ["dog", "guardian"]
 rank = 2
 abilities = ["speed", "???"]
 date = "2018-02-22T14:38:47-06:00"
-firstpath = "../../img/char_pic/canissandro.jpg"
-secpath = "../../img/char_pic/canissandro_dog.jpg"
+firstpath = "/img/char_pic/canissandro.jpg"
+secpath = "/img/char_pic/canissandro_dog.jpg"
 type = "characters"
 
 +++

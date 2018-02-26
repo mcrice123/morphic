@@ -10,7 +10,7 @@ subcategories = ["wolf"]
 rank = 3
 abilities = ["speed", "???", "???"]
 firstpath = ""
-secpath = "../../img/char_pic/wolf_wolf.jpg"
+secpath = "/img/char_pic/wolf_wolf.jpg"
 type = "characters"
 
 +++

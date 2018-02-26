@@ -9,7 +9,7 @@ subcategories = []
 rank = 0
 abilities = []
 date = "2018-02-22T13:56:47-06:00"
-firstpath = "../../img/char_pic/chan.jpg"
+firstpath = "/img/char_pic/chan.jpg"
 secpath = ""
 type = "characters"
 
