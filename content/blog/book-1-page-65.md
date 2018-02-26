@@ -6,10 +6,10 @@ type = "post"
 date = "2017-11-18"
 author = "Maria Rice"
 linktitle = ""
-featuredpath = "../../img/book1/bw_page65.jpg"
+featuredpath = "/img/book1/bw_page65.jpg"
 featuredalt = "Page65"
 description = ""
-preview = "../../img/book1_prev/preview65.jpg"
+preview = "/img/book1_prev/preview65.jpg"
 
 +++
 

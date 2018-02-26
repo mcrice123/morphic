@@ -7,9 +7,9 @@ categories = ["book1"]
 type = "post"
 title = "Book 1, Page 30"
 description = ""
-featuredpath = "../../img/book1/bw_page30.jpg"
+featuredpath = "/img/book1/bw_page30.jpg"
 featured = ""
-preview = "../../img/book1_prev/preview30.jpg"
+preview = "/img/book1_prev/preview30.jpg"
 
 +++
 

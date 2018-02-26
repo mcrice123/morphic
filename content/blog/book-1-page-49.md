@@ -6,10 +6,10 @@ featured = ""
 categories = ["book1"]
 author = "Maria Rice"
 linktitle = ""
-featuredpath = "../../img/book1/bw_page49.jpg"
+featuredpath = "/img/book1/bw_page49.jpg"
 featuredalt = "Page49"
 description = ""
-preview = "../../img/book1_prev/preview49.jpg"
+preview = "/img/book1_prev/preview49.jpg"
 
 +++
 

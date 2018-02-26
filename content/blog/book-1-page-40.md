@@ -8,8 +8,8 @@ description = ""
 date = "2017-05-27"
 linktitle = ""
 author = "Maria Rice"
-featuredpath = "../../img/book1/bw_page40.jpg"
-preview = "../../img/book1_prev/preview40.jpg"
+featuredpath = "/img/book1/bw_page40.jpg"
+preview = "/img/book1_prev/preview40.jpg"
 
 +++
 

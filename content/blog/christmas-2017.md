@@ -1,8 +1,8 @@
 +++
-preview = "../../img/misc_prev/preview_christmas2017.jpg"
+preview = "/img/misc_prev/preview_christmas2017.jpg"
 type = "post"
 author = "Maria Rice"
-featuredpath = "../../img/misc/morphicchristmas2017.jpg"
+featuredpath = "/img/misc/morphicchristmas2017.jpg"
 description = ""
 categories = ["misc"]
 featured = ""
