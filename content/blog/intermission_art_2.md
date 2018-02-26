@@ -2,11 +2,11 @@
 featuredalt = "SirenaCanissandroArt"
 featured = ""
 description = ""
-preview = "../../img/misc_prev/preview_sirena_canissandro_art.jpg"
+preview = "/img/misc_prev/preview_sirena_canissandro_art.jpg"
 date = "2018-02-23T19:07:10-06:00"
 categories = ["misc"]
 type = "post"
-featuredpath = "../../img/misc/sirena_canissandro001W.jpg"
+featuredpath = "/img/misc/sirena_canissandro001W.jpg"
 title = "Intermission Art #2"
 linktitle = ""
 author = "Maria Rice"
