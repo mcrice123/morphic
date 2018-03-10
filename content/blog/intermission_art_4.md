@@ -1,5 +1,5 @@
 +++
-categories = ["book1"]
+categories = ["misc"]
 type = "post"
 title = "Intermission Art #4"
 description = ""
