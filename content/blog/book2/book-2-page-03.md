@@ -21,6 +21,17 @@ Remember that last week we saw Vix transform?
 Remember what I usually do when we see a Morphic transform for the first time in the story?
 **That's right---It's video-sharing time!** Featuring _foxes_!
 
-https://www.youtube.com/watch?v=jofNR_WkoCE
+Without further ado...
+
+WHAT DOES THE FOX SAY
 
 {{< youtube-video jofNR_WkoCE >}}
+
+
+
+### Thanks for reading!
+
+I'll be posting more fox videos on my Facebook page throughout the week! 
+Also don't forget to check out the next page update next week!
+
+Have a great weekend!
