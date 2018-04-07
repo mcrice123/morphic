@@ -13,3 +13,13 @@ linktitle = ""
 
 +++
 
+A great reminder to not run drowsy...especially if you run fast.
+
+# Guess what I forgot last week
+
+Remember that last week we saw Vix transform?
+Remember what I usually do when we see a Morphic transform for the first time in the story?
+**That's right---It's video-sharing time!** Featuring _foxes_!
+
+https://www.youtube.com/watch?v=jofNR_WkoCE
+
