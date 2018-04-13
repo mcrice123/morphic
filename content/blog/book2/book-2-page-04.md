@@ -1,15 +1,15 @@
 +++
-preview = ""
+preview = "img/book2_prev/page04.jpg"
 featuredalt = ""
 featured = ""
 date = "2018-04-13T17:23:49-05:00"
-categories = [""]
+categories = ["book2"]
 linktitle = ""
-featuredpath = ""
+featuredpath = "img/book2/page04.jpg"
 description = ""
 type = "post"
-author = ""
-title = ""
+author = "Maria Rice"
+title = "Book 2, Page 4"
 
 +++
 
