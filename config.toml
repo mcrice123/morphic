@@ -6,7 +6,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
 # disqusShortname = "maria_rice"
-disqusShortname = ""
+disqusShortname = "morphic"
 googleAnalytics = ""
 pluralizeListTitles = false
 
