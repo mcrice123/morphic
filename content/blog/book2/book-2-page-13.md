@@ -18,5 +18,13 @@ type = "post"
 Nothing like a see-through, walk-through tiger in the 
 kitchen to make one question her own senses.
 
+### Quick Status!
+
+Book 2 page buffer is still growing. Yay!
+
+I decided to redraw and color one of the Book 1 pages 
+and now that it's done, it's uploaded! Check out 
+[page 5](https://mcrice123.github.io/morphic/blog/book-1-page-05/)! 
+
 
 
