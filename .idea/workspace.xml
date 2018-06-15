@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/content/blog/book2/book-2-page-13.md" afterPath="$PROJECT_DIR$/content/blog/book2/book-2-page-13.md" />
+      <change beforePath="$PROJECT_DIR$/content/blog/book-1-page-05.md" afterPath="$PROJECT_DIR$/content/blog/book-1-page-05.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,12 +29,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book-2-page-13.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="book-2-page-13.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-13.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="340">
-                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book-1-page-05.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-05.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -106,7 +119,6 @@
         <option value="$PROJECT_DIR$/content/blog/book-1-page-08.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-07.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-06.md" />
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-05.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-04.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-03.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-02.md" />
@@ -126,6 +138,7 @@
         <option value="$PROJECT_DIR$/content/blog/intermission_art_5.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-12.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-13.md" />
+        <option value="$PROJECT_DIR$/content/blog/book-1-page-05.md" />
       </list>
     </option>
   </component>
@@ -273,12 +286,12 @@
       <workItem from="1521261377497" duration="2007000" />
       <workItem from="1522530776567" duration="76000" />
       <workItem from="1528559040459" duration="2485000" />
-      <workItem from="1529099277190" duration="1321000" />
+      <workItem from="1529099277190" duration="1648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96748000" />
+    <option name="totallyTimeSpent" value="97075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -554,16 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-05.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-04.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -797,7 +800,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="340">
-            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/book-1-page-05.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
