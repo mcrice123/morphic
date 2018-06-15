@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/content/blog/book2/book-2-page-12.md" afterPath="$PROJECT_DIR$/content/blog/book2/book-2-page-12.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-12.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="369">
+              <first_editor relative-caret-position="321">
                 <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
                 <folding />
               </first_editor>
@@ -156,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +211,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,12 +272,13 @@
       <workItem from="1520649308608" duration="3804000" />
       <workItem from="1521261377497" duration="2007000" />
       <workItem from="1522530776567" duration="76000" />
-      <workItem from="1528559040459" duration="2039000" />
+      <workItem from="1528559040459" duration="2485000" />
+      <workItem from="1529099277190" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94981000" />
+    <option name="totallyTimeSpent" value="95668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -754,7 +755,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="474">
             <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -764,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="97" column="28" lean-forward="false" selection-start-line="97" selection-start-column="28" selection-end-line="97" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-12.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="369">
+          <first_editor relative-caret-position="321">
             <caret line="47" column="26" lean-forward="false" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
             <folding />
           </first_editor>
