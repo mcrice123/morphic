@@ -1,5 +1,5 @@
 +++
-featuredpath = "/img/book1/bw_page37.jpg"
+featuredpath = "/img/book1/page37.jpg"
 linktitle = ""
 featuredalt = "Page37"
 type = "post"
@@ -9,7 +9,7 @@ featured = ""
 description = ""
 date = "2017-05-06"
 categories = ["book1"]
-preview = "/img/book1_prev/preview37.jpg"
+preview = "/img/book1_prev/page37.jpg"
 
 +++
 
