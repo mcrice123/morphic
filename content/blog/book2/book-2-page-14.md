@@ -13,3 +13,26 @@ featured = ""
 
 +++
 
+# Well darn...
+
+Aw, heck. Who needs emergency services anyway?
+
+![IT CROWD GIF](img/book2/it-crowd-fire.gif)
+
+Also...
+
+### SURPRISE!
+
+I said last week that I *might* have a redrawn and 
+colored page for Book 1. I am happy to announce...
+**I have two!**
+
+Check out pages [1](https://mcrice123.github.io/morphic/blog/book-1-page-01/)
+and [5](https://mcrice123.github.io/morphic/blog/book-1-page-37/)!
+
+# Thanks for reading!
+
+Check out next week's page update to find out what happens 
+and maybe---*maybe*---you'll get to see another redone page 
+from Book 1! Have a great weekend!
+
