@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/content/blog/book2/book-2-page-18.md" afterPath="$PROJECT_DIR$/content/blog/book2/book-2-page-18.md" />
       <change beforePath="$PROJECT_DIR$/static/img/book1/page12.jpg" afterPath="$PROJECT_DIR$/static/img/book1/page12.jpg" />
       <change beforePath="$PROJECT_DIR$/static/img/book2/page16.jpg" afterPath="$PROJECT_DIR$/static/img/book2/page16.jpg" />
     </list>
@@ -290,12 +289,12 @@
       <workItem from="1531437998319" duration="98000" />
       <workItem from="1531523221843" duration="2928000" />
       <workItem from="1532176832952" duration="530000" />
-      <workItem from="1532179083811" duration="1333000" />
+      <workItem from="1532179083811" duration="1559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113116000" />
+    <option name="totallyTimeSpent" value="113342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
