@@ -44,6 +44,21 @@ if it's a bug from an update. I'll be looking into that, but
 any feedback on Facebook or on the comments below (or Github, if 
 you fancy) is appreciated.
 
+**_UPDATE:_ Fixed page 15! Looks like it was an OS problem
+on my side. My image wasn't displaying in its true orientation 
+except the times I worked on it in GIMP and uploaded it
+to the site. I literally look at it in its file folder and on 
+other apps on my laptop and it wouldn't be showing the image 
+in the same orientation as on GIMP or online.**
+
+**So _that_ was confusing! I never had this issue before. I 
+did install a new version of GIMP and finished page 15 with 
+that version. Something must have changed in the way GIMP 
+exports image files.**
+
+**OH WELL. Now I know what the problem is and how to prevent 
+it from now on.** (8/25/18)
+
 ### Thanks for reading!
 
 Come back next week to see who's talking in that last panel!
