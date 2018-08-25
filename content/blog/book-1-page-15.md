@@ -13,4 +13,4 @@ preview = "/img/book1_prev/page15.jpg"
 
 +++
 
-Updated 8/24/18
+Updated 8/24/18 
