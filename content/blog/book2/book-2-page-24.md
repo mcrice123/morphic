@@ -36,6 +36,20 @@ stage 1, next week's post will cover stage 2, etc.
 Want to read the first post for "How I Draw"? Follow the 
 link [here](https://mcrice123.github.io/morphic/).
 
+### In other news
+
+1. There's no new colored Book 1 page this week. I'm 
+probably going to pause those updates until I'm done with 
+"How I Draw" posts. But I'm still going to work on them, so 
+I'll post whatever I get done all at once after finishing the 
+extra posts celebrating the birthday of "Morphic".
+
+2. I did just post the last ready page in my buffer, BUT. I 
+I am in the middle of coloring the next two pages and I expect 
+to get them done this weekend (esp. since it's a 3-day 
+weekend, hehe). Therefore, I'm confident I'll have pages 
+ready for next week and the following week. 
+
 ### Thanks for reading!
 
 Check out next week's posts for Stage 2 of my drawing process 
