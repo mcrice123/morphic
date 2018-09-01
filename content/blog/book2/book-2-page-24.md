@@ -48,7 +48,7 @@ extra posts celebrating the birthday of "Morphic".
 I am in the middle of coloring the next two pages and I expect 
 to get them done this weekend (esp. since it's a 3-day 
 weekend, hehe). Therefore, I'm confident I'll have pages 
-ready for next week and the following week. 
+ready for the next two regular page updates. 
 
 ### Thanks for reading!
 
