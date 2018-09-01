@@ -13,3 +13,33 @@ linktitle = ""
 
 +++
 
+Behold...CAT MORPHICS
+
+MEOW
+
+_...also, cats are kind of hard to draw..._
+
+# Happy Birthday, Morphic!
+
+About two years ago, I launched "Morphic" and posted the 
+first 8 pages of "Morphic" Book 1 on a Facebook page. I don't 
+remember the exact date, but I remember drawing these first 
+pages in August, hurrying to get them done by the end of the 
+month, then posting them on the first weekend of September. 
+So I consider Sept 1st to be the birthday of "Morphic".
+
+In celebration, I created extra posts that I'll upload 
+alongside the regular page updates. These posts describe
+my drawing process in **4 stages**. Today's post covers 
+stage 1, next week's post will cover stage 2, etc. 
+
+Want to read the first post for "How I Draw"? Follow the 
+link [here](https://mcrice123.github.io/morphic/).
+
+### Thanks for reading!
+
+Check out next week's posts for Stage 2 of my drawing process 
+and more conversation with THE CATS!
+
+Have a great Labor Day weekend!
+
