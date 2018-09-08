@@ -34,7 +34,7 @@ my drawing process in **4 stages**. Today's post covers
 stage 1, next week's post will cover stage 2, etc. 
 
 Want to read the first post for "How I Draw"? Follow the 
-link [here](https://mcrice123.github.io/morphic/).
+link [here](https://mcrice123.github.io/morphic/blog/how-i-draw-part-1/).
 
 ### In other news
 

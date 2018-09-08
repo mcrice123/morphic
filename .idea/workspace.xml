@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="" />
+    <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/content/blog/book2/book-2-page-24.md" afterPath="$PROJECT_DIR$/content/blog/book2/book-2-page-24.md" />
+      <change beforePath="$PROJECT_DIR$/content/blog/book2/book-2-page-25.md" afterPath="$PROJECT_DIR$/content/blog/book2/book-2-page-25.md" />
+      <change beforePath="$PROJECT_DIR$/content/blog/how-i-draw-part-2.md" afterPath="$PROJECT_DIR$/content/blog/how-i-draw-part-2.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-24.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <first_editor relative-caret-position="117">
+                <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -31,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-25.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="459">
+                <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <first_editor relative-caret-position="216">
+                <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -159,10 +163,10 @@
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-22.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-15.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-23.md" />
-        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-24.md" />
         <option value="$PROJECT_DIR$/content/blog/how-i-draw-part-1.md" />
-        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-25.md" />
         <option value="$PROJECT_DIR$/content/blog/how-i-draw-part-2.md" />
+        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-24.md" />
+        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-25.md" />
       </list>
     </option>
   </component>
@@ -320,12 +324,12 @@
       <workItem from="1535239255833" duration="2130000" />
       <workItem from="1535814652655" duration="6693000" />
       <workItem from="1535822844845" duration="515000" />
-      <workItem from="1536367839276" duration="1406000" />
+      <workItem from="1536367839276" duration="4617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137087000" />
+    <option name="totallyTimeSpent" value="140298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -800,28 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-24.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-25.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -833,11 +815,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-24.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="117">
+            <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-25.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <first_editor relative-caret-position="216">
+            <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
