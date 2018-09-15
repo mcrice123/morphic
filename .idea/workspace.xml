@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="" />
+    <list default="true" id="52710770-2560-485d-84a5-164d8c5a9fed" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/content/blog/book2/book-2-page-26.md" afterPath="$PROJECT_DIR$/content/blog/book2/book-2-page-26.md" />
+      <change beforePath="$PROJECT_DIR$/content/blog/how-i-draw-part-3.md" afterPath="$PROJECT_DIR$/content/blog/how-i-draw-part-3.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,12 +30,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book-2-page-26.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="book-2-page-26.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-26.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <first_editor relative-caret-position="238">
+                <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,12 +43,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="how-i-draw-part-3.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="how-i-draw-part-3.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <first_editor relative-caret-position="508">
+                <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -148,8 +151,8 @@
         <option value="$PROJECT_DIR$/content/blog/how-i-draw-part-2.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-24.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-25.md" />
-        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-26.md" />
         <option value="$PROJECT_DIR$/content/blog/how-i-draw-part-3.md" />
+        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-26.md" />
       </list>
     </option>
   </component>
@@ -308,12 +311,12 @@
       <workItem from="1535814652655" duration="6693000" />
       <workItem from="1535822844845" duration="515000" />
       <workItem from="1536367839276" duration="4771000" />
-      <workItem from="1536974749368" duration="1001000" />
+      <workItem from="1536974749368" duration="3224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141453000" />
+    <option name="totallyTimeSpent" value="143676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -806,17 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-26.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -831,8 +823,19 @@
     <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <first_editor relative-caret-position="508">
+            <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-26.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
