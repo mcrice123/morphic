@@ -14,25 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="book-2-page-24.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-24.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="646">
-                <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="book-2-page-25.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-25.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,12 +27,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="how-i-draw-part-2.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="how-i-draw-part-2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="216">
                 <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book-2-page-26.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-26.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -99,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/blog/book-1-page-18.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-17.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-14.md" />
         <option value="$PROJECT_DIR$/content/blog/book-1-page-13.md" />
@@ -150,6 +149,7 @@
         <option value="$PROJECT_DIR$/content/blog/how-i-draw-part-2.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-24.md" />
         <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-25.md" />
+        <option value="$PROJECT_DIR$/content/blog/book2/book-2-page-26.md" />
       </list>
     </option>
   </component>
@@ -308,12 +308,12 @@
       <workItem from="1535814652655" duration="6693000" />
       <workItem from="1535822844845" duration="515000" />
       <workItem from="1536367839276" duration="4771000" />
-      <workItem from="1536974749368" duration="17000" />
+      <workItem from="1536974749368" duration="747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140469000" />
+    <option name="totallyTimeSpent" value="141199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -349,13 +349,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/layouts/partials/pagination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/_default/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -809,22 +802,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-25.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <first_editor relative-caret-position="216">
+            <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/how-i-draw-part-2.md">
+    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-25.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/book2/book-2-page-26.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
