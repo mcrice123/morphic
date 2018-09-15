@@ -17,8 +17,8 @@ categories = ["misc"]
 
 Welcome to Part 3 of my drawing process!
 We are now at the third of four posts dedicated to showing 
-how I create the pages of “Morphic”. Don’t forget to check 
-out page 26! Just click the left arrow icon to go back a 
+how I create the pages of “Morphic”. **Don’t forget to check 
+out page 26!** Just click the left arrow icon to go back a 
 page and see it. 
 
 ## Part 3: Text Stage
