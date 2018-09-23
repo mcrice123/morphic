@@ -21,7 +21,7 @@ getting places...
 **And continuing with celebrating 'Morphic's birthday...**
 
 Don't forget to check out this week's SPECIAL POST: 
-[How I Draw, Part 2](https://mcrice123.github.io/morphic/)
+[How I Draw, Part 2](https://mcrice123.github.io/morphic/blog/how-i-draw-part-2/)
 
 ### Thanks for reading!
 

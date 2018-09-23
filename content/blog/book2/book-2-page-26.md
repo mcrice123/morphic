@@ -16,8 +16,8 @@ categories = ["book2"]
 Catius is really proud of his skillz.
 
 ## Check out this week's extra post! 
-
-Part 3 of "How I Draw" is up! Just hit the next page link.
+ 
+[Part 3](https://mcrice123.github.io/morphic/blog/how-i-draw-part-3/) of "How I Draw" is up!
 
 2 years ago, I only got to this stage in page production. 
 Believe me, it's a relief to finally get to color these 

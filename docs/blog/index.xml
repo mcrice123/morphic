@@ -6,8 +6,181 @@
     <description>Recent content in Blog on Morphic Graphic Novel Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Sep 2018 20:40:01 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 22 Sep 2018 22:54:53 -0500</lastBuildDate>
     <atom:link href="https://mcrice123.github.io/morphic/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I Draw, Part 4</title>
+      <link>https://mcrice123.github.io/morphic/blog/how-i-draw-part-4/</link>
+      <pubDate>Sat, 22 Sep 2018 22:54:53 -0500</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/how-i-draw-part-4/</guid>
+      <description>
+
+&lt;h1 id=&#34;how-i-make-a-page&#34;&gt;How I Make a Page&lt;/h1&gt;
+
+&lt;p&gt;Welcome to Part 4 of my drawing process!
+We are now at the final post dedicated to showing how I
+create the pages of “Morphic”. Don’t forget to check out
+page 27! Just click the link to go back a page to see it.&lt;/p&gt;
+
+&lt;h2 id=&#34;part-4-color-stage&#34;&gt;Part 4: Color Stage&lt;/h2&gt;
+
+&lt;p&gt;Last week, I talked about using GIMP to turn my pages from
+image files to layered lines and text. This week I’m talking
+about my coloring process and creating the final image.&lt;/p&gt;
+
+&lt;h3 id=&#34;step-1-open-file-and-apply-settings&#34;&gt;Step 1: Open file and apply settings&lt;/h3&gt;
+
+&lt;p&gt;I set the image mode from ‘Greyscale’ to ‘RGB’. An image
+set to the former will not show color, even when you paint
+with a selected color.&lt;/p&gt;
+
+&lt;h3 id=&#34;step-2-flatting&#34;&gt;Step 2: Flatting&lt;/h3&gt;
+
+&lt;p&gt;Here’s where my process seems a little counter-intuitive.
+I color the areas of the page with &amp;ldquo;wrong&amp;rdquo; colors before
+filling them in with their true colors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It’s easier to go back and change the color of something,
+like Vix’s coat. If I realize I used the wrong shade of red,
+I can select Vix’s coat in all panels of the page by using
+the ‘Select By Color’ tool and fill in all areas with the
+correct color.
+
+&lt;ul&gt;
+&lt;li&gt;Note: While it is true I could select by color with the
+true colors, if something other than Vix’s coat is the
+same red, those areas will be selected too. Selection is
+simpler when these areas are distinguished and this
+distinguishment is possible by flatting these areas in
+different colors on a different layer.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;I hear that flatting leads to more efficient coloring time.
+Basically I’m filling in the areas to select before even
+deciding what color these areas are going to be.&lt;/li&gt;
+&lt;li&gt;I really like the flatting process. It’s like coloring a
+coloring book without caring about the color combination.
+It’s very refreshing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So&amp;hellip;I create a layer underneath the lines layer and fill
+in areas one color at a time, unselecting those areas by
+color so that I don’t paint over them accidentally.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-3-add-true-colors&#34;&gt;Part 3: Add True Colors&lt;/h3&gt;
+
+&lt;p&gt;Here’s the easy part of the coloring process. Now that I
+have my flats layer, I only have to Select By Color on that
+layer and fill in all those areas on another layer (under
+the lines layer) with the true color. I don’t like creating
+a lot of unnecessary layers, so I would typically create
+two, one for foreground and one for background.&lt;/p&gt;
+
+&lt;p&gt;In order to use the same colors I used before on previous
+pages, I open up the necessary files and use the ‘Color
+Picker’ tool to select the true color and fill in the areas
+on the current file with that color.&lt;/p&gt;
+
+&lt;p&gt;At this point, I add whatever colors I want. I often use
+gradients (color blends) for the backgrounds.&lt;/p&gt;
+
+&lt;h3 id=&#34;part-4-shading-brights&#34;&gt;Part 4: Shading/Brights&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;LAST STEP!&lt;/strong&gt; This step is a little longer than it looks…
+First I create two layers, one for shading and one for
+highlights. Then I add a layer mask to each.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But what’s a layer mask?&lt;/strong&gt; It’s like another layer, but it
+controls the transparency of the visible layer it’s
+attached to. I use it mostly to add gradient effects in
+the shading/brights.&lt;/p&gt;
+
+&lt;p&gt;I currently use a shade of blue-green for shading and pure
+white for highlights. I paint with these colors directly
+on the layers and adjust their transparency on the layer’s
+corresponding mask to make them semi-transparent so that
+the true colors below them to show up a little, giving
+the illusion of depth.&lt;/p&gt;
+
+&lt;h3 id=&#34;step-5-just-kidding-this-is-really-the-last-step&#34;&gt;Step 5: Just kidding, this is really the last step…&lt;/h3&gt;
+
+&lt;p&gt;Oh yeah! We need to export this thing. Right now the file
+is still not an image file you can upload to the internet.
+It is still a .xcf file, which is only displayable in GIMP.
+I have to export it to .jpg format.&lt;/p&gt;
+
+&lt;p&gt;So ‘File-&amp;gt;Export as…’, use default settings, and &lt;em&gt;WHA-LA!&lt;/em&gt;
+The image appears in the specified folder!&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;And all these substeps take me about 2 hours on average.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks-for-reading&#34;&gt;Thanks for reading!&lt;/h2&gt;
+
+&lt;p&gt;I hope you enjoyed this little run-through of how I make
+pages. Feel free to try out &lt;a href=&#34;https://www.gimp.org/&#34;&gt;GIMP&lt;/a&gt;!
+It’s helpful for me and
+I recommend it for basic image-layer editing. You could
+draw from scratch on it if you wanted to. I&amp;rsquo;ve tried it,
+but I personally find that I draw way better traditionally
+than by computer, so I only use it for simple things like
+outlines, speech bubbles, text, and select-and-fill style
+coloring.&lt;/p&gt;
+
+&lt;p&gt;Other possible software you could use for digital drawing
+include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adobe Photoshop&lt;/li&gt;
+&lt;li&gt;Clip Studio/Manga Studio&lt;/li&gt;
+&lt;li&gt;Krita&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alright, I’ll get off my soapbox now.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HAPPY BIRTHDAY MORPHIC!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m done celebrating now. Thanks again for reading and
+have a great weekend!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book 2, Page 27</title>
+      <link>https://mcrice123.github.io/morphic/blog/book2/book-2-page-27/</link>
+      <pubDate>Sat, 22 Sep 2018 22:52:12 -0500</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book2/book-2-page-27/</guid>
+      <description>
+
+&lt;p&gt;So while finalizing the script on this page, a familiar song
+came to mind: &amp;ldquo;I&amp;rsquo;m a Believer&amp;rdquo;, written by Neil Diamond and
+sung by the Monkees. &lt;strong&gt;I couldn&amp;rsquo;t stop laughing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;strong&gt;&lt;em&gt;NEW CHARACTER APPEARANCE!&lt;/em&gt;&lt;/strong&gt; This will be fun&amp;hellip; &lt;em&gt;[hehehe]&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sorry-for-late-update&#34;&gt;Sorry for late update&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been crazy busy lately. Starting this week, I&amp;rsquo;ll be
+resuming a 2-page-per-week production schedule to build my
+page buffer up again. My goal is to get enough pages stored
+up to cover more than a month of weekly page updates.&lt;/p&gt;
+
+&lt;p&gt;Not going to focus too much on updating Book 1 pages, but I
+might post one soon that I stopped in the middle of coloring.&lt;/p&gt;
+
+&lt;h3 id=&#34;thanks-for-reading&#34;&gt;Thanks for reading!&lt;/h3&gt;
+
+&lt;p&gt;Have a great weekend everybody! I&amp;rsquo;ll post next week&amp;rsquo;s page as
+scheduled.&lt;/p&gt;
+
+&lt;p&gt;AND DON&amp;rsquo;T FORGET TO CHECK OUT THE &lt;a href=&#34;https://mcrice123.github.io/morphic/blog/how-i-draw-part-4/&#34;&gt;FINAL POST&lt;/a&gt;
+OF How I Draw!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How I Draw, Part 3</title>
@@ -112,7 +285,7 @@ COLORING STAGE!&lt;/p&gt;
 
 &lt;h2 id=&#34;check-out-this-week-s-extra-post&#34;&gt;Check out this week&amp;rsquo;s extra post!&lt;/h2&gt;
 
-&lt;p&gt;Part 3 of &amp;ldquo;How I Draw&amp;rdquo; is up! Just hit the next page link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mcrice123.github.io/morphic/blog/how-i-draw-part-3/&#34;&gt;Part 3&lt;/a&gt; of &amp;ldquo;How I Draw&amp;rdquo; is up!&lt;/p&gt;
 
 &lt;p&gt;2 years ago, I only got to this stage in page production.
 Believe me, it&amp;rsquo;s a relief to finally get to color these
@@ -215,7 +388,7 @@ getting places&amp;hellip;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;And continuing with celebrating &amp;lsquo;Morphic&amp;rsquo;s birthday&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Don&amp;rsquo;t forget to check out this week&amp;rsquo;s SPECIAL POST:
-&lt;a href=&#34;https://mcrice123.github.io/morphic/&#34;&gt;How I Draw, Part 2&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://mcrice123.github.io/morphic/blog/how-i-draw-part-2/&#34;&gt;How I Draw, Part 2&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;thanks-for-reading&#34;&gt;Thanks for reading!&lt;/h3&gt;
 
@@ -633,71 +806,6 @@ early to hype it up&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;thanks-for-reading&#34;&gt;Thanks for reading!&lt;/h3&gt;
 
 &lt;p&gt;And come back next week for more Lane! Have a great weekend!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book 2, Page 16</title>
-      <link>https://mcrice123.github.io/morphic/blog/book2/book-2-page-16/</link>
-      <pubDate>Sat, 07 Jul 2018 11:31:18 -0500</pubDate>
-      
-      <guid>https://mcrice123.github.io/morphic/blog/book2/book-2-page-16/</guid>
-      <description>
-
-&lt;p&gt;Hmm, Chan looks surprised.&lt;/p&gt;
-
-&lt;h1 id=&#34;end-of-scene&#34;&gt;End of scene&lt;/h1&gt;
-
-&lt;p&gt;Hope you&amp;rsquo;re enjoying the story so far! Come back next week
-to see the start of the next scene. &lt;em&gt;We&amp;rsquo;ll get to see what
-&lt;strong&gt;Lane&lt;/strong&gt; is up to.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;page-9-of-book-1-is-now-in-color&#34;&gt;Page 9 of Book 1 is now in color!&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mcrice123.github.io/morphic/blog/book-1-page-09/&#34;&gt;Check it out here!&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;thanks-for-reading&#34;&gt;Thanks for reading!&lt;/h3&gt;
-
-&lt;p&gt;And have a great weekend!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book 2, Page 15</title>
-      <link>https://mcrice123.github.io/morphic/blog/book2/book-2-page-15/</link>
-      <pubDate>Fri, 29 Jun 2018 19:46:16 -0500</pubDate>
-      
-      <guid>https://mcrice123.github.io/morphic/blog/book2/book-2-page-15/</guid>
-      <description>
-
-&lt;h1 id=&#34;the-burning-question&#34;&gt;The Burning Question&lt;/h1&gt;
-
-&lt;p&gt;Errie&amp;rsquo;s a little surprised to be regaining her mother&amp;rsquo;s
-trust so quickly.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-small-update&#34;&gt;A Small update&lt;/h3&gt;
-
-&lt;p&gt;Before last week, I was producing two colored pages per week
-for Book 2, with the intent of reaching a buffer of 8 pages.
-Since last week, I decided to slow down to producing one
-page per week, settling for a buffer of 5 pages.&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;Or, rather 3 pages currently. I&amp;rsquo;m still working on the
-two latest pages.&lt;/p&gt;
-
-&lt;h3 id=&#34;but-hey-another-colored-page-for-book-1&#34;&gt;But hey&amp;mdash;Another Colored Page for Book 1!&lt;/h3&gt;
-
-&lt;p&gt;Check out &lt;a href=&#34;https://mcrice123.github.io/morphic/blog/book-1-page-34/&#34;&gt;page 34&lt;/a&gt;
-of Book 1!&lt;/p&gt;
-
-&lt;h3 id=&#34;thanks-for-reading&#34;&gt;Thanks for reading!&lt;/h3&gt;
-
-&lt;p&gt;Check out next week&amp;rsquo;s post for the wrap-up of this scene!&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;&lt;em&gt;And&lt;/em&gt; maybe another colored page for Book 1, if I have
-time.&lt;/p&gt;
-
-&lt;p&gt;Have a great weekend!&lt;/p&gt;
 </description>
     </item>
     
