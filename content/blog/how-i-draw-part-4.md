@@ -112,7 +112,8 @@ The image appears in the specified folder!
 ## Thanks for reading!
 
 I hope you enjoyed this little run-through of how I make 
-pages. Feel free to try out GIMP! It’s helpful for me and 
+pages. Feel free to try out [GIMP](https://www.gimp.org/)! 
+It’s helpful for me and 
 I recommend it for basic image-layer editing. You could 
 draw from scratch on it if you wanted to. I've tried it, 
 but I personally find that I draw way better traditionally
@@ -122,9 +123,10 @@ coloring.
 
 Other possible software you could use for digital drawing
 include, but are not limited to: 
-* Adobe Photoshop 
-* Clip Studio/Manga Studio
-* Krita
+
+*  Adobe Photoshop 
+*  Clip Studio/Manga Studio
+*  Krita
 
 Alright, I’ll get off my soapbox now.
 
