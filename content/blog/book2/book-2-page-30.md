@@ -12,3 +12,12 @@ categories = ["book2"]
 linktitle = ""
 
 +++
+
+**So excited right now.**
+
+I've been waiting a LONG time to draw this lady. **I'm even _more_ excited about
+showing next week's page!**
+
+### Thanks for reading!
+
+Come back next week for another look at the new character! Have a great weekend! 
