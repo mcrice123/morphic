@@ -20,23 +20,25 @@ came to a decision. **After I upload page 32, I'll begin my break from drawing
 pages, to be resumed the beginning of January.**
 
 My main two reasons for choosing to take a break early consist of:
+
 1) Drawing fatigue, and
+
 2) Busy schedule in November.
 
 I definitely welcome the upcoming "hiatus", but I wanted to be done with my
 current pages so that they're not sitting for weeks/months unfinished. Page 32
-is currently waiting to have both text and colors added to it, but I think I
-could get it done this week...
+is currently waiting to have both text and colors added to it, ~~but I think I
+could get it done this week...~~ **but due to crammed schedule this week, I'm
+giving myself until the week _after_ this upcoming weekend to finish it.**
 
-_...Heheheheheh, I hope it works out that way..._
 
 Ever since I made my decision to stop after page 32, I got this stubborn eagerness
 to finish 31 and 32. This is **good**, since before I was lacking motivation to even
-draw. However, this last week was still hard on my drawing progress.
+draw. My trouble **now** is trying to get pages done by a certain deadline, so I
+have to tread carefully and set realistic goals for myself.
 
 If I don't have page 32 done next weekend, I'll upload something else "Morphic"-
-related. I'll do my best to be clear on what's going on. If I post late, I'll
-explain in the post why it was late.
+related.
 
 ### Thanks for reading!
 
