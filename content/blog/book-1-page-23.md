@@ -1,5 +1,5 @@
 +++
-featuredpath = "/img/book1/bw_page23.jpg"
+featuredpath = "/img/book1/page23.jpg"
 categories = ["book1"]
 author = "Maria Rice"
 linktitle = ""
@@ -9,7 +9,8 @@ type = "post"
 title = "Book 1, Page 23"
 description = ""
 date = "2017-01-21"
-preview = "/img/book1_prev/preview23.jpg"
+preview = "/img/book1_prev/page23.jpg"
 
 +++
 
+Colored and reworked with GIMP and uploaded on 1/11/18. 
