@@ -1,7 +1,7 @@
 +++
-preview = ""
+preview = "img/misc_prev/status_update_01-11-19.jpg"
 linktitle = ""
-featuredpath = ""
+featuredpath = "img/misc/status_update_01-11-19.jpg"
 featuredalt = ""
 featured = ""
 type = "post"

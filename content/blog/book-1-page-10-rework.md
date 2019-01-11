@@ -2,14 +2,14 @@
 featured = ""
 author = "Maria Rice"
 type = "post"
-featuredpath = "img/misc/status_update_01-11-19.jpg"
+featuredpath = "img/misc/status_update_01-05-19.jpg"
 featuredalt = ""
 description = ""
 categories = ["misc"]
 title = "Book 1 Page 10 REWORK"
 linktitle = ""
 date = "2019-01-05T12:03:47-06:00"
-preview = "img/misc_prev/status_update_01-11-19.jpg"
+preview = "img/misc_prev/status_update_01-05-19.jpg"
 
 +++
 
