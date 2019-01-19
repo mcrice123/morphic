@@ -13,4 +13,6 @@ preview = "/img/book1_prev/page27.jpg"
 
 +++
 
-Updated 8/3/18
+Colored in GIMP and updated 8/3/18.
+
+Re-uploaded with new text for sound effects 1/19/19.
