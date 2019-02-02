@@ -13,3 +13,7 @@ preview = "/img/book1_prev/page05.jpg"
 
 +++
 
+Colored and reworked in GIMP. Updated 6/15/18.
+
+Updated again 2/2/19. Shifted color balance and color of lighting.
+
