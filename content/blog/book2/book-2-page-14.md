@@ -28,7 +28,7 @@ colored page for Book 1. I am happy to announce...
 **I have two!**
 
 Check out pages [1](https://mcrice123.github.io/morphic/blog/book-1-page-01/)
-and [5](https://mcrice123.github.io/morphic/blog/book-1-page-37/)!
+and [37](https://mcrice123.github.io/morphic/blog/book-1-page-37/)!
 
 # Thanks for reading!
 
