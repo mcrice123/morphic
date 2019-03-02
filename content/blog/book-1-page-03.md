@@ -13,3 +13,5 @@ preview = "/img/book1_prev/page03.jpg"
 
 +++
 
+Colored in GIMP and updated 3/2/19. 
+
