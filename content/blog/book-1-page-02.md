@@ -5,11 +5,12 @@ date = "2016-08-27T17:46:29-06:00"
 categories = ["book1"]
 author = "Maria Rice"
 title = "Book 1, Page 2"
-featuredpath = "/img/book1/bw_page2.jpg"
+featuredpath = "/img/book1/page02.jpg"
 featured = ""
 linktitle = ""
 type = "post"
-preview = "/img/book1_prev/preview2.jpg"
+preview = "/img/book1_prev/page02.jpg"
 
 +++
 
+Colored in GIMP and updated 3/2/19. 
