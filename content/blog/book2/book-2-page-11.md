@@ -21,9 +21,7 @@ It's times like this, when I **really** look forward to drawing Book 2...
 
 _[Sinister chuckling]_
 
-![Mr. Bean GIF](img/book2/scared-mister-bean.gif)
-
-(Mr. Bean GIF from gfycat)
+![Mr Bean](../scared-mister-bean.gif)
 
 # Come back next week to find out what's in the kitchen!
 
