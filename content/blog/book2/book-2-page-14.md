@@ -17,7 +17,7 @@ featured = ""
 
 Aw, heck. Who needs emergency services anyway?
 
-![IT CROWD GIF](img/book2/it-crowd-fire.gif)
+![IT CROWD GIF](../it-crowd-fire.gif)
 
 Also...
 
