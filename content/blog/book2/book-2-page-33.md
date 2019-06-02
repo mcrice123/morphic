@@ -21,8 +21,6 @@ In addition, I finished page 34 this morning, _so it's ready to be uploaded next
 
 **This calls for a victory dance!**
 
-![Jimmy Fallon GIF](blog/book2/jimmy_fallon_dance.gif)
-
 ![Jimmy Fallon](../jimmy_fallon_dance.gif)
 
 And here's a quick link to [page 32](https://mcrice123.github.io/morphic/blog/book2/book-2-page-32/) if you need a refresher on what the previous page looks like. 
