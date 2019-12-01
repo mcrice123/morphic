@@ -5,11 +5,12 @@ description = ""
 categories = ["book1"]
 type = "post"
 linktitle = ""
-featuredpath = "/img/book1/bw_page70.jpg"
+featuredpath = "/img/book1/page70.jpg"
 featured = ""
 author = "Maria Rice"
 featuredalt = "Page70"
-preview = "/img/book1_prev/preview70.jpg"
+preview = "/img/book1_prev/page70.jpg"
 
 +++
 
+Updated 11/30/19
