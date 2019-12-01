@@ -7,10 +7,10 @@ categories = ["book1"]
 type = "post"
 title = "Book 1, Page 30"
 description = ""
-featuredpath = "/img/book1/page30.jpg"
+featuredpath = "/img/book1/page30_2.jpg"
 featured = ""
-preview = "/img/book1_prev/page30.jpg"
+preview = "/img/book1_prev/page30_2.jpg"
 
 +++
 
-Colored in GIMP and updated 3/8/19. 
+Colored in GIMP and updated ~~3/8/19~~ 11/30/19. 

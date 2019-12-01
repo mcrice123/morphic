@@ -7,9 +7,10 @@ description = ""
 linktitle = ""
 featured = ""
 author = "Maria Rice"
-featuredpath = "/img/book1/bw_page68.jpg"
+featuredpath = "/img/book1/page68.jpg"
 categories = ["book1"]
-preview = "/img/book1_prev/preview68.jpg"
+preview = "/img/book1_prev/page68.jpg"
 
 +++
 
+Updated 11/30/19
