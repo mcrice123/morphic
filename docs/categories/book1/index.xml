@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book1 on Morphic Graphic Novel Series</title>
-    <link>https://mcrice123.github.io/morphic/categories/book1/index.xml</link>
-    <description>Recent content in Book1 on Morphic Graphic Novel Series</description>
+    <title>book1 on Morphic Graphic Novel Series</title>
+    <link>https://mcrice123.github.io/morphic/categories/book1/</link>
+    <description>Recent content in book1 on Morphic Graphic Novel Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mcrice123.github.io/morphic/categories/book1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mcrice123.github.io/morphic/categories/book1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Book 1, Page 74</title>
@@ -14,7 +17,7 @@
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-74/</guid>
-      <description></description>
+      <description>Updated 11/30/19</description>
     </item>
     
     <item>
@@ -32,7 +35,7 @@
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-72/</guid>
-      <description></description>
+      <description>Updated 11/30/19</description>
     </item>
     
     <item>
@@ -41,7 +44,7 @@
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-71/</guid>
-      <description></description>
+      <description>Updated 11/30/19</description>
     </item>
     
     <item>
@@ -50,7 +53,7 @@
       <pubDate>Fri, 12 Jan 2018 17:21:59 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-70/</guid>
-      <description></description>
+      <description>Updated 11/30/19</description>
     </item>
     
     <item>
@@ -59,8 +62,7 @@
       <pubDate>Fri, 12 Jan 2018 17:20:59 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-69/</guid>
-      <description>&lt;p&gt;Updated 7/13/18&lt;/p&gt;
-</description>
+      <description>Updated 7/13/18 11/30/19</description>
     </item>
     
     <item>
@@ -69,7 +71,7 @@
       <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-68/</guid>
-      <description></description>
+      <description>Updated 11/30/19</description>
     </item>
     
     <item>
@@ -78,7 +80,7 @@
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-67/</guid>
-      <description></description>
+      <description>Updated 11/30/19</description>
     </item>
     
     <item>
@@ -132,8 +134,7 @@
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-61/</guid>
-      <description>&lt;p&gt;Colored in GIMP and updated 5/4/19.&lt;/p&gt;
-</description>
+      <description>Colored in GIMP and updated 5/4/19.</description>
     </item>
     
     <item>
@@ -142,8 +143,540 @@
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/blog/book-1-page-60/</guid>
-      <description>&lt;p&gt;Colored in GIMP and updated 4/20/19.&lt;/p&gt;
-</description>
+      <description>Colored in GIMP and updated 4/20/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 59</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-59/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 58</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-58/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 57</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-57/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 56</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-56/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 55</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-55/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 54</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-54/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 53</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-53/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 52</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-52/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 51</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-51/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 50</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-50/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 49</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-49/</link>
+      <pubDate>Sat, 29 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 48</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-48/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 47</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-47/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-47/</guid>
+      <description>Colored in GIMP and updated 4/27/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 46</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-46/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 45</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-45/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 44</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-44/</link>
+      <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 43</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-43/</link>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 42</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-42/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-42/</guid>
+      <description>Colored in GIMP and updated 5/18/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 41</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-41/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-41/</guid>
+      <description>Colored in GIMP and updated 5/11/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 40</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-40/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 39</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-39/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 38</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-38/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-38/</guid>
+      <description>Colored in GIMP and updated 4/13/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 37</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-37/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 36</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-36/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-36/</guid>
+      <description>Colored in GIMP and uploaded on 4/6/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 35</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-35/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-35/</guid>
+      <description>Colored in GIMP and uploaded on 3/30/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 34</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-34/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 33</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-33/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-33/</guid>
+      <description>Colored with GIMP and updated on 3/23/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 32</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-32/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-32/</guid>
+      <description>Colored in GIMP and updated 3/16/19 11/30/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 31</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-31/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-31/</guid>
+      <description>Updated 11/30/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 30</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-30/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-30/</guid>
+      <description>Colored in GIMP and updated 3/8/19 11/30/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 29</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-29/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-29/</guid>
+      <description>Colored with GIMP. Updated 2/16/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 28</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-28/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-28/</guid>
+      <description>Colored and reworked with GIMP. Updated 1/19/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 27</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-27/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-27/</guid>
+      <description>Colored in GIMP and updated 8/3/18.
+Re-uploaded with new text for sound effects 1/19/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 26</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-26/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 25</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-25/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 24</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-24/</link>
+      <pubDate>Sat, 28 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-24/</guid>
+      <description>Updated 11/30/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 23</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-23/</link>
+      <pubDate>Sat, 21 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-23/</guid>
+      <description>Colored and reworked with GIMP and uploaded on 1/11/18 11/30/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 22</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-22/</link>
+      <pubDate>Sat, 14 Jan 2017 16:22:46 -0600</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-22/</guid>
+      <description>Colored with GIMP. Updated and uploaded on 2/9/19 11/30/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 21</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-21/</link>
+      <pubDate>Sun, 08 Jan 2017 16:21:01 -0600</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-21/</guid>
+      <description>Updated 11/30/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 20</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-20/</link>
+      <pubDate>Sun, 08 Jan 2017 16:19:29 -0600</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-20/</guid>
+      <description>Updated 11/30/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 19</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-19/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-19/</guid>
+      <description>Updated 11/30/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 18</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-18/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-18/</guid>
+      <description>Updated 11/30/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 17</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-17/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 16</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-16/</link>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-16/</guid>
+      <description>Updated 7/28/18</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 15</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-15/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-15/</guid>
+      <description>Updated 8/24/18</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 14</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-14/</link>
+      <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-14/</guid>
+      <description>Colored and reworked with GIMP. Updated 2/2/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 13</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-13/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 12</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-12/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-12/</guid>
+      <description>Updated 7/21/18</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 11</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-11/</link>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-11/</guid>
+      <description>Updated 7/13/18</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 10</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-10/</link>
+      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-10/</guid>
+      <description>Colored with GIMP and updated 1/5/19</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 9</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-09/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 8</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-08/</link>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-08/</guid>
+      <description>Colored in GIMP and updated 3/2/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 7</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-07/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-07/</guid>
+      <description>Colored with GIMP and updated 2/23/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 6</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-06/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-06/</guid>
+      <description>Colored in GIMP and updated on 1/25/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 5</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-05/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-05/</guid>
+      <description>Colored and reworked in GIMP. Updated 6/15/18.
+Updated again 2/2/19. Shifted color balance and color of lighting.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 4</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-04/</link>
+      <pubDate>Sat, 27 Aug 2016 18:36:13 -0600</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-04/</guid>
+      <description>Colored in GIMP and updated 3/2/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 3</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-03/</link>
+      <pubDate>Sat, 27 Aug 2016 18:33:28 -0600</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-03/</guid>
+      <description>Colored in GIMP and updated 3/2/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 2</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-02/</link>
+      <pubDate>Sat, 27 Aug 2016 17:46:29 -0600</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-02/</guid>
+      <description>Colored in GIMP and updated 3/2/19.</description>
+    </item>
+    
+    <item>
+      <title>Book 1, Page 1</title>
+      <link>https://mcrice123.github.io/morphic/blog/book-1-page-01/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/blog/book-1-page-01/</guid>
+      <description></description>
     </item>
     
   </channel>
