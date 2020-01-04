@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mcrice123.github.io/morphic/about/</loc>
+    <loc>https://mcrice123.github.io/morphic/about</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/blog/book2/book-2-page-44/</loc>
+    <lastmod>2020-01-04T07:32:47-06:00</lastmod>
   </url>
   
   <url>
@@ -819,7 +823,19 @@
   
   <url>
     <loc>https://mcrice123.github.io/morphic/blog/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-04T07:32:47-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/categories/book1/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/categories/book2/</loc>
+    <lastmod>2020-01-04T07:32:47-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -839,31 +855,14 @@
   </url>
   
   <url>
-    <loc>https://mcrice123.github.io/morphic/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/categories/book1/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/categories/book2/</loc>
-    <lastmod>2019-11-23T11:25:46-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mcrice123.github.io/morphic/categories/misc/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
