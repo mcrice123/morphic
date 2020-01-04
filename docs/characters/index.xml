@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Characters on Morphic Graphic Novel Series</title>
-    <link>https://mcrice123.github.io/morphic/characters/</link>
+    <link>https://mcrice123.github.io/morphic/characters/index.xml</link>
     <description>Recent content in Characters on Morphic Graphic Novel Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 17:55:30 -0600</lastBuildDate>
-    
-	<atom:link href="https://mcrice123.github.io/morphic/characters/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://mcrice123.github.io/morphic/characters/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
@@ -17,7 +15,8 @@
       <pubDate>Thu, 22 Feb 2018 17:55:30 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/wolf/</guid>
-      <description>This mysterious Morphic appears to early settlers and, over a century later, reappears near Lane&amp;rsquo;s house where Errie found the stone.</description>
+      <description>&lt;p&gt;This mysterious Morphic appears to early settlers and, over a century later, reappears near Lane&amp;rsquo;s house where Errie found the stone.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -26,7 +25,8 @@
       <pubDate>Thu, 22 Feb 2018 14:40:47 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/sirena/</guid>
-      <description>Despite her cold, critical attitude, Sirena jumps into action to save the humans of Ash Root from the urgent threat of a nearby Rogue.</description>
+      <description>&lt;p&gt;Despite her cold, critical attitude, Sirena jumps into action to save the humans of Ash Root from the urgent threat of a nearby Rogue.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,7 +35,8 @@
       <pubDate>Thu, 22 Feb 2018 14:38:47 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/canissandro/</guid>
-      <description>In addition to his loyalty and tender heart, Canissandro seeks boldly to make up for his mistakes&amp;ndash;especially that which brought Capri to Ash Root.</description>
+      <description>&lt;p&gt;In addition to his loyalty and tender heart, Canissandro seeks boldly to make up for his mistakes&amp;ndash;especially that which brought Capri to Ash Root.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,7 +45,8 @@
       <pubDate>Thu, 22 Feb 2018 14:37:47 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/capri/</guid>
-      <description>A stubborn Goat Morphic with a chip on his shoulder, Capri angrily denies Errie and Lane&amp;rsquo;s observation of the unnatural plant growth protruding from his back.</description>
+      <description>&lt;p&gt;A stubborn Goat Morphic with a chip on his shoulder, Capri angrily denies Errie and Lane&amp;rsquo;s observation of the unnatural plant growth protruding from his back.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,7 +55,8 @@
       <pubDate>Thu, 22 Feb 2018 14:10:48 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/nascha/</guid>
-      <description>As suddenly as she appears to plead for Errie&amp;rsquo;s help, this mysterious girl vanishes into thin air.</description>
+      <description>&lt;p&gt;As suddenly as she appears to plead for Errie&amp;rsquo;s help, this mysterious girl vanishes into thin air.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -62,7 +65,8 @@
       <pubDate>Thu, 22 Feb 2018 13:56:47 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/chan/</guid>
-      <description>Chan&amp;rsquo;s dedication to building the &amp;ldquo;best remote-control car ever&amp;rdquo; prevents him from joining his friends Errie and Lane on their adventures in the woods, but he accepts the costume they got him to wear at the festival later.</description>
+      <description>&lt;p&gt;Chan&amp;rsquo;s dedication to building the &amp;ldquo;best remote-control car ever&amp;rdquo; prevents him from joining his friends Errie and Lane on their adventures in the woods, but he accepts the costume they got him to wear at the festival later.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -71,7 +75,8 @@
       <pubDate>Thu, 22 Feb 2018 13:37:47 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/lane/</guid>
-      <description>As Errie&amp;rsquo;s best friend with a concern for others&amp;rsquo; safety, Lane wastes no time to check out Errie&amp;rsquo;s alert about someone in danger in the woods.</description>
+      <description>&lt;p&gt;As Errie&amp;rsquo;s best friend with a concern for others&amp;rsquo; safety, Lane wastes no time to check out Errie&amp;rsquo;s alert about someone in danger in the woods.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -80,7 +85,8 @@
       <pubDate>Mon, 19 Feb 2018 13:37:47 -0600</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/characters/errie/</guid>
-      <description>While Errie waits to attend a local festival, an unnamed girl seeks her help in the woods and there Errie meets a Rogue Morphic.</description>
+      <description>&lt;p&gt;While Errie waits to attend a local festival, an unnamed girl seeks her help in the woods and there Errie meets a Rogue Morphic.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
