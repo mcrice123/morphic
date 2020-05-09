@@ -1,6 +1,6 @@
 +++
 featuredalt = "Page2"
-description = ""
+description = "Next page goes to 9 (Pages 3-8 are removed)"
 date = "2016-08-27T17:46:29-06:00"
 categories = ["book1"]
 author = "Maria Rice"
