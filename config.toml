@@ -9,6 +9,7 @@ paginate = 5
 disqusShortname = "morphic"
 googleAnalytics = ""
 pluralizeListTitles = false
+canonifyURLs = true
 
 [params]
   # Sets the meta tag description
