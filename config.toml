@@ -113,11 +113,6 @@ canonifyURLs = true
   #identifier = "fa fa-sitemap"
   weight = 4
 
-[[menu.main]]
-  name = "Main Cast"
-  url = "/characters/"
-  weight = 5
-
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
