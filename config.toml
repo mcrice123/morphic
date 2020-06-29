@@ -4,7 +4,7 @@ baseURL = "https://mcrice123.github.io/morphic/"
 publishDir = "docs"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 5
+paginate = 10
 # disqusShortname = "maria_rice"
 disqusShortname = "morphic"
 googleAnalytics = ""
@@ -102,13 +102,7 @@ canonifyURLs = true
  # weight = 2
 
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  #identifier = "fa fa-newspaper-o"
-  weight = 3
-
-[[menu.main]]
-  name = "Categories"
+  name = "Chapters"
   url = "/categories/"
   #identifier = "fa fa-sitemap"
   weight = 4
