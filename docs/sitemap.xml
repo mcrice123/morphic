@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,7 +8,27 @@
   </url>
   
   <url>
+    <loc>https://mcrice123.github.io/morphic/blog/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mcrice123.github.io/morphic/blog/book2/book-2-page-54/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/categories/book2/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/categories/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,6 +84,11 @@
   
   <url>
     <loc>https://mcrice123.github.io/morphic/blog/christmas-2019/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/categories/misc/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -493,6 +518,11 @@
   </url>
   
   <url>
+    <loc>https://mcrice123.github.io/morphic/characters/</loc>
+    <lastmod>2018-02-22T17:55:30-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mcrice123.github.io/morphic/characters/sirena/</loc>
     <lastmod>2018-02-22T14:40:47-06:00</lastmod>
   </url>
@@ -534,6 +564,11 @@
   
   <url>
     <loc>https://mcrice123.github.io/morphic/blog/book-1-page-74/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcrice123.github.io/morphic/categories/book1/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -883,53 +918,11 @@
   </url>
   
   <url>
-    <loc>https://mcrice123.github.io/morphic/blog/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/characters/</loc>
-    <lastmod>2018-02-22T17:55:30-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mcrice123.github.io/morphic/contact/</loc>
   </url>
   
   <url>
-    <loc>https://mcrice123.github.io/morphic/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mcrice123.github.io/morphic/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/categories/book1/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/categories/book2/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mcrice123.github.io/morphic/categories/misc/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
