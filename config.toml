@@ -85,7 +85,7 @@ uglyURLs = true
   [params.intro.pic]
     src       = "/img/main/wolf.jpg"
     # Sets Image to be a circle
-    circle    = true
+    circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = "100 px"
@@ -94,6 +94,11 @@ uglyURLs = true
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
     sidebar = 5
+
+[params.logo]
+# Sets the logo that appears in the navigation (two images are used to get the hover change)
+  src      = "/img/main/morphic.svg"
+  hover    = "/img/main/morphic-hover.svg"
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
