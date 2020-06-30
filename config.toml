@@ -5,19 +5,27 @@ publishDir = "docs"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 10
-# disqusShortname = "maria_rice"
-disqusShortname = "morphic"
+# disqusShortname = ""
+disqusShortname = ""
 googleAnalytics = ""
 pluralizeListTitles = false
+relativeURLS = true
 canonifyURLs = true
+uglyURLs = true
 
 [params]
+  # set to "" if uglyURLs = "false"
+  # set to ".html" if uglyURLs = "true"
+  ugly = ".html"
+  # set to "/" if uglyURLs = "false"
+  # set to "/index.html" if uglyURLs = "true"
+  uglyhome = "/index.html"
   # Sets the meta tag description
   description          = "Official website for the graphic novel series 'Morphic', created by Maria Rice"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Morphic"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "/categories/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -77,7 +85,7 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/wolf.jpg"
     # Sets Image to be a circle
-    circle    = true
+    circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = "100 px"
@@ -86,6 +94,11 @@ canonifyURLs = true
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
     sidebar = 5
+
+[params.logo]
+# Sets the logo that appears in the navigation (two images are used to get the hover change)
+  src      = "/img/main/morphic.svg"
+  hover    = "/img/main/morphic-hover.svg"
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item

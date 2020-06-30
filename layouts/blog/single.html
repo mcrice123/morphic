@@ -8,5 +8,6 @@
         {{ $.Scratch.Set "h1" true }}
         {{ .Render "content-single" }}
     </div>
+    {{ $.Scratch.Set "showCategories" false }}
     {{ partial "sidebar" . }}
 {{ partial "footer" . }}

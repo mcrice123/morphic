@@ -1,11 +1,21 @@
 <!-- Header -->
 <header id="header">
-    {{ if or .IsHome (not .Site.Params.DynamicTitles) }}
-      <h1><a href="{{ "/" | relURL }}">{{ .Site.Params.navbarTitle }}</a></h1>
-    {{ else if ne .Section "" }}
-      <h1><a href="{{ "/" | relURL }}">{{ .Section }}</a></h1>
-    {{ else }}
-      <h1><a href="{{ "/" | relURL }}">{{ .Title }}</a></h1>
+    
+
+    {{ if .Site.Params.logo.src }}
+        <a id="svg-logo" href='{{"/" | relURL}}' class="no-border-bottom nav-logo" aria-label="Logo link to Home page">
+            <img class="logo-show svg-logo" src="{{ .Site.Params.logo.src | relURL }}" alt="Logo">
+            <img class="svg-logo" src="{{ .Site.Params.logo.hover | relURL }}" alt="Logo">
+        </a>
+
+    {{ else}}
+        {{ if or .IsHome (not .Site.Params.DynamicTitles) }}
+            <h1><a href="{{ "/" | relURL }}">{{ .Site.Params.navbarTitle }}</a></h1>
+        {{ else if ne .Section "" }}
+            <h1><a href="{{ "/" | relURL }}">{{ .Section }}</a></h1>
+        {{ else }}
+            <h1><a href="{{ "/" | relURL }}">{{ .Title }}</a></h1>
+        {{ end }}
     {{ end }}
 
     <nav class="links">
@@ -26,13 +36,7 @@
                 <a class="fa-share-alt" href="#share-menu">Share</a>
             </li>
             {{ end }}
-            <li class="search">
-                <a class="fa-search" href="#search">Search</a>
-                <form id="search" method="get" action="//google.com/search">
-                    <input type="text" name="q" placeholder="Search" />
-                    <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
-                </form>
-            </li>
+            
             <li class="menu">
                 <a class="fa-bars" href="#menu">Menu</a>
             </li>
@@ -42,14 +46,6 @@
 
 <!-- Menu -->
 <section id="menu">
-
-    <!-- Search -->
-        <section>
-            <form class="search" method="get" action="//google.com/search">
-                <input type="text" name="q" placeholder="Search" />
-                <input type="hidden" name="as_sitesearch" value="{{ .Site.BaseURL }}">
-            </form>
-        </section>
 
     <!-- Links -->
         <section>

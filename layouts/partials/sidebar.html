@@ -6,11 +6,11 @@
     {{ $pic := .Site.Params.intro.pic }}
     {{ with $pic.src }}
       {{ if $pic.circle }}
-        <a href='{{"/" | relURL}}'><img src="{{ . | relURL }}" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
+        <a href='{{"/" | relURL}}' class="no-border-bottom"><img src="{{ . | relURL }}" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
       {{ else if $pic.imperfect }}
-        <a href='{{"/" | relURL}}' class="logo"><img src="{{ . | relURL }}" alt="{{ $pic.alt }}" /></a>
+        <a href='{{"/" | relURL}}' class="logo no-border-bottom"><img src="{{ . | relURL }}" alt="{{ $pic.alt }}" /></a>
       {{ else }}
-        <a href='{{"/" | relURL}}'><img src="{{ . | relURL }}" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
+        <a href='{{"/" | relURL}}' class="no-border-bottom"><img src="{{ . | relURL }}" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
       {{ end }}
     {{ end }}
     {{ with .Site.Params.intro }}
@@ -81,7 +81,7 @@
     <section id="categories">
       <header>
         <h3>
-          <a href="/categories/">Categories</a>
+          <a href="/categories/">Chapters</a>
         </h3>
       </header>
         {{ if .Site.Params.categoriesByCount }}
@@ -95,7 +95,7 @@
           <article>
             <header>
               {{ if ne $value.Name "" }}
-                <a href="{{"/" | relURL}}/categories/{{ $value.Name | urlize }}/">{{ $value.Name | title }}</a>
+                <a href="/categories/{{ $value.Name | urlize }}/">{{ $value.Name | title }}</a>
                 <span style="float:right;">{{ $value.Count }}</span>
               {{ else }}
                 Uncategorized

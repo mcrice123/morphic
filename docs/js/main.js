@@ -6,6 +6,15 @@
 
 (function($) {
 
+	$(document).ready(function() {
+        $('.nav-logo').on('mouseenter', function() {
+			$(this).find('img').toggleClass('logo-show');
+		});
+		$('.nav-logo').on('mouseleave', function() {
+			$(this).find('img').toggleClass('logo-show');
+		});
+    });
+
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
 		large:	'(max-width: 1280px)',

@@ -188,6 +188,44 @@ a:hover:before {
     color: #2ebaae !important;
 }
 
+/* MAIN NAV LOGO (if it shows) */
+
+a.nav-logo {
+    margin-right: -20px;
+}
+
+a.nav-logo img {
+    min-width: 0;
+    display: block;
+    min-width: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a.nav-logo > img {
+    width: 0;
+    height: 0;
+}
+
+a.nav-logo > .logo-show {
+    height: auto;
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 1680px) {
+    a.nav-logo > .logo-show {
+        padding-top: 16px;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    a.nav-logo > .logo-show {
+        padding-top: 12px;
+    }
+}
+
+/* Default styles, continued */ 
+
 strong, b {
     color: #333333;
     font-weight: 700;
@@ -2610,6 +2648,10 @@ table > tbody > tr > td:first-child {
 
 body {
     padding-top: 3.5em;
+}
+
+.no-border-bottom {
+    border-bottom: none;
 }
 
 #header {
