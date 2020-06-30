@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Morphic Graphic Novel Series</title>
-    <link>https://mcrice123.github.io/morphic/categories.html</link>
+    <link>https://mcrice123.github.io/morphic/categories/</link>
     <description>Recent content in Categories on Morphic Graphic Novel Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -13,28 +13,28 @@
     
     <item>
       <title>book2</title>
-      <link>https://mcrice123.github.io/morphic/categories/book2.html</link>
+      <link>https://mcrice123.github.io/morphic/categories/book2/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mcrice123.github.io/morphic/categories/book2.html</guid>
+      <guid>https://mcrice123.github.io/morphic/categories/book2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>misc</title>
-      <link>https://mcrice123.github.io/morphic/categories/misc.html</link>
+      <link>https://mcrice123.github.io/morphic/categories/misc/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mcrice123.github.io/morphic/categories/misc.html</guid>
+      <guid>https://mcrice123.github.io/morphic/categories/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>book1</title>
-      <link>https://mcrice123.github.io/morphic/categories/book1.html</link>
+      <link>https://mcrice123.github.io/morphic/categories/book1/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcrice123.github.io/morphic/categories/book1.html</guid>
+      <guid>https://mcrice123.github.io/morphic/categories/book1/</guid>
       <description></description>
     </item>
     

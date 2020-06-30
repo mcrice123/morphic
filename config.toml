@@ -11,15 +11,8 @@ googleAnalytics = ""
 pluralizeListTitles = false
 relativeURLS = true
 canonifyURLs = true
-uglyURLs = true
 
 [params]
-  # set to "" if uglyURLs = "false"
-  # set to ".html" if uglyURLs = "true"
-  ugly = ".html"
-  # set to "/" if uglyURLs = "false"
-  # set to "/index.html" if uglyURLs = "true"
-  uglyhome = "/index.html"
   # Sets the meta tag description
   description          = "Official website for the graphic novel series 'Morphic', created by Maria Rice"
   # Sets the navbarTitle that appears in the top left of the navigation bar
