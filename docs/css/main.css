@@ -208,19 +208,20 @@ a.nav-logo > img {
 }
 
 a.nav-logo > .logo-show {
-    height: auto;
+    height: 50px;
     padding-top: 20px;
 }
 
 @media screen and (max-width: 1680px) {
     a.nav-logo > .logo-show {
         padding-top: 16px;
+        height: 40px;
     }
 }
 
 @media screen and (max-width: 736px) {
     a.nav-logo > .logo-show {
-        padding-top: 12px;
+        padding-top: 4px;
     }
 }
 
