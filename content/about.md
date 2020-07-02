@@ -4,58 +4,42 @@ name = 'about'
 url = '/about'
 title = "About Morphic"
 author = "Maria Rice"
-description = "My Awesome Hobby"
+description = ""
 type = "about"
 weight = 2
 date = "2018-01-23"
 +++
 
-# The Author
-**My name is Maria Rice** and I am a web developer by trade 
-with a passion for reading web comics, graphic novels, comic 
-books, etc. **And I enjoy comics so much that I make one of 
-my very own!**
+## Plot
 
+A plea for help from a mysterious girl sidetracks **Errie Bright**&#42; and **Lane Valerie** on their way to a local festival. 
+Fooled at first by the expectation of seeing people dressed up for the same event, the girls soon realize that the people they meet in the woods that day are _not in costume..._
 
-# The Plot
+They are shape-shifting beings called **morphics**. 
 
-Meet Erica "Errie" Bright, a regular teenaged girl who 
-discovers the existence of powerful beings called Morphics 
-just outside her hometown of Ash Root.
+## Medium
 
-### What are 'Morphics'?
+The project started with lineart-only pages and I am currently in the process of coloring them. 
+I draw the pages with black fineliner ink pen and use 
+[GIMP](https://www.gimp.org/) 
+to add text bubbles and color.
 
-Powerful beings with the ability to switch between either of 
-two forms:
-  
-  1. That of an animal
-  2. That which is similar to a human, but with some animal 
-  features corresponding to their animal form.
+## History
 
-A Morphic can have more abilities in addition to his/her 
-transformation ability.
+I wrote the first finished plot line for "Morphic" in the **spring of 2016** and later that year I began drawing and posting pages on the internet. 
+Starting in 2018, I switched from uploading lineart-only pages to fully-colored, cell-shaded pages. 
 
-# History
+## Goal
 
-I wrote the first finished plot line for "Morphic" in the 
-spring of 2016. I posted the first drawn pages in September 
-of that same year and have been uploading pages weekly ever 
-since. 
+I plan to print and sell copies of all 3 books in the series by the **end of 2026**. 
+As an independent author and artist, I consider crowdfunding as my best option for publishing "Morphic". 
+News and updates about upcoming campaigns will be posted on this site. 
 
-"Morphic" was going to be a 5-book series, but after 
-discovering how much time and effort it takes to produce 
-one book, I changed it to a 3-book series.
+## Author
 
-# Medium
+My name is **Maria Rice** and I make websites for a living. 
+In my spare time, I like to read comics and graphic novels. 
+**I am a self-taught artist, with years of experience drawing in traditional ink and [GIMP](https://www.gimp.org/).**
 
-Although I hope to gradually add color to the pages as the 
-project grows, for now I show it in the original black and 
-white to keep the story going. I draw the pages with black 
-ink pen and add the speech bubbles with 
-[GIMP](https://www.gimp.org/).
-
-# Thanks For Visiting
-
-With immense gratitude, I welcome you to view my work and
-leave some constructive feedback. I hope you enjoy the story 
-as much as I enjoy creating it!
+________
+&#42; **"Errie"** is pronounced like the word **"airy"** (_eh·ree_).
