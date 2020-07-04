@@ -2,13 +2,21 @@
 menu = "main"
 name = 'about'
 url = '/about'
-title = "About Morphic"
+title = 'About "Morphic"'
 author = "Maria Rice"
 description = ""
 type = "about"
 weight = 2
 date = "2018-01-23"
 +++
+
+{{< img-post "/img/inline" "maria-rice_logo_transparent.png" "Maria Rice logo -- black cat with a bowl of rice" "right" >}}
+
+## Author
+
+My name is **Maria Rice** and I make websites for a living. 
+In my spare time, I like to read comics and graphic novels. 
+**I am a self-taught artist, with years of experience drawing in traditional ink and [GIMP](https://www.gimp.org/).**
 
 ## Plot
 
@@ -29,17 +37,13 @@ to add text bubbles and color.
 I wrote the first finished plot line for "Morphic" in the **spring of 2016** and later that year I began drawing and posting pages on the internet. 
 Starting in 2018, I switched from uploading lineart-only pages to fully-colored, cell-shaded pages. 
 
-## Goal
+## Printing
 
 I plan to print and sell copies of all 3 books in the series by the **end of 2026**. 
 As an independent author and artist, I consider crowdfunding as my best option for publishing "Morphic". 
 News and updates about upcoming campaigns will be posted on this site. 
 
-## Author
 
-My name is **Maria Rice** and I make websites for a living. 
-In my spare time, I like to read comics and graphic novels. 
-**I am a self-taught artist, with years of experience drawing in traditional ink and [GIMP](https://www.gimp.org/).**
 
 ________
-&#42; **"Errie"** is pronounced like the word **"airy"** (_eh·ree_).
+&#42; **"Errie"** is pronounced like the word **"airy"** (_eh·ree_). Short for "Erica".
