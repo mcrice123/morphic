@@ -13,6 +13,9 @@ author = "Maria Rice"
 
 +++
 
+{{< img-post "/img/inline" "scared-mister-bean.gif" "Mr Bean puts popcorn bucket on head before scary scene at the movie" "right" >}}
+
+
 # WHOA
 
 _Errie, was that your stomach growling?_
@@ -21,7 +24,6 @@ It's times like this, when I **really** look forward to drawing Book 2...
 
 _[Sinister chuckling]_
 
-![Mr Bean](../scared-mister-bean.gif)
 
 # Come back next week to find out what's in the kitchen!
 

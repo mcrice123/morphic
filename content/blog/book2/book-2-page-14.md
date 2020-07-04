@@ -17,7 +17,7 @@ featured = ""
 
 Aw, heck. Who needs emergency services anyway?
 
-![IT CROWD GIF](../it-crowd-fire.gif)
+{{< img-post "/img/inline" "it-crowd-fire.gif" "Moss types on computer and casually looks at fire in foreground" "left" >}}
 
 Also...
 
