@@ -93,6 +93,10 @@ canonifyURLs = true
   src      = "/img/main/morphic.svg"
   hover    = "/img/main/morphic-hover.svg"
 
+[params.subscribe]
+# Sets the subscribe link in the menu 
+  url      = "http://eepurl.com/g8TzPb"
+
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
@@ -101,17 +105,17 @@ canonifyURLs = true
   #identifier = "fa fa-home"
   weight = 1
 
-#[[menu.main]]
- # name = "About"
- # url = "/about/"
+[[menu.main]]
+  name = "About"
+  url = "/about/"
   #identifier = "fa fa-id-card-o"
- # weight = 2
+  weight = 2
 
 [[menu.main]]
   name = "Chapters"
   url = "/categories/"
   #identifier = "fa fa-sitemap"
-  weight = 4
+  weight = 3
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop

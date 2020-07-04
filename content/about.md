@@ -1,5 +1,4 @@
 +++
-menu = "main"
 name = 'about'
 url = '/about'
 title = 'About "Morphic"'
@@ -41,7 +40,8 @@ Starting in 2018, I switched from uploading lineart-only pages to fully-colored,
 
 I plan to print and sell copies of all 3 books in the series by the **end of 2026**. 
 As an independent author and artist, I consider crowdfunding as my best option for publishing "Morphic". 
-News and updates about upcoming campaigns will be posted on this site. 
+
+**[Subscribe to my mailing list](http://eepurl.com/g8TzPb) to get news and updates about upcoming crowdfunding campaigns and promotions!**
 
 
 

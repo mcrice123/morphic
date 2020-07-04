@@ -27,6 +27,13 @@
                     </a>
                 </li>
             {{ end }}
+            {{ if .Site.Params.subscribe.url }}
+                <li>
+                    <a href="{{ .Site.Params.subscribe.url }}" target="_blank">
+                        Subscribe
+                    </a>
+                </li>
+            {{ end }}
         </ul>
     </nav>
     <nav class="main">
