@@ -43,7 +43,7 @@ As an independent author and artist, I consider crowdfunding as my best option f
 
 **[Subscribe to my mailing list](http://eepurl.com/g8TzPb) to get news and updates about upcoming crowdfunding campaigns and promotions!**
 
-
+You can also [like and follow "Morphic" on Facebook!](https://www.facebook.com/MorphicGraphicNovel/)
 
 ________
 &#42; **"Errie"** is pronounced like the word **"airy"** (_eh·ree_). Short for "Erica".
