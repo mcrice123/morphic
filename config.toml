@@ -14,7 +14,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Official website for the graphic novel series 'Morphic', created by Maria Rice"
+  description          = "Official website for the online graphic novel series 'Morphic', created by Maria Rice"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Morphic"
   # Sets where "View More Posts" links
@@ -71,7 +71,7 @@ canonifyURLs = true
 
   paragraph = "A fantasy graphic novel series by Maria Rice"
 
-  about     = "Meet Erica 'Errie' Bright, a regular teenaged girl who discovers the existence of powerful beings called Morphics just outside her hometown of Ash Root."
+  about     = "<strong>A plea for help, two teenage girls, and an animal-themed festival.</strong> Fooled at first by the common practice of dressing up as animals, Errie and Lane soon realize that the people they meet in the woods one day are not in costume…<br><br><strong>They are shape-shifting beings called <em>morphics</em>.</strong>"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
