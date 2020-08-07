@@ -20,7 +20,7 @@ canonifyURLs = true
   # Sets where "View More Posts" links
   viewMorePostLink     = "/categories/"
   # sets Twitter image 
-  images = ["/img/main/seo_image.jpg"]
+  images = ["./img/main/seo_image.jpg"]
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
