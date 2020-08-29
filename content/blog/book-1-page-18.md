@@ -14,6 +14,6 @@ images = [ "img/seo/18_book1.jpg" ]
 
 +++
 
-~~Updated 11/30/19~~
+Updated 11/30/19
 
-Colored and reworked with GIMP. Updated 8/29/20. 
+Made panel line thicker between last two panels -- 8/29/20. 
