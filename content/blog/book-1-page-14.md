@@ -1,6 +1,6 @@
 +++
 linktitle = ""
-featuredpath = "/img/book1/page14.jpg"
+featuredpath = "/img/book1/page14_2.jpg"
 description = ""
 author = "Maria Rice"
 type = "post"
@@ -9,9 +9,9 @@ categories = ["book1"]
 title = "Book 1, Page 14"
 featured = ""
 featuredalt = "Page14"
-preview = "/img/book1_prev/page14.jpg"
+preview = "/img/book1_prev/page14_2.jpg"
+images = [ "img/seo/14_book1.jpg" ]
 
 +++
 
-Colored and reworked with GIMP. Updated 2/2/19. 
-
+Colored and reworked with GIMP. Updated 8/29/20. 
