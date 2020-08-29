@@ -1,7 +1,7 @@
 +++
 title = "Book 1, Page 18"
 linktitle = ""
-featuredpath = "/img/book1/page18.jpg"
+featuredpath = "/img/book1/page18_2.jpg"
 featuredalt = "Page18"
 description = ""
 type = "post"
