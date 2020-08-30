@@ -10,6 +10,7 @@ linktitle = ""
 title = "Book 2, Page 56"
 type = "post"
 preview = "img/book2_prev/page56.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

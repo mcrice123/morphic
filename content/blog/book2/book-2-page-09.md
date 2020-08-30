@@ -10,6 +10,7 @@ featuredalt = ""
 description = ""
 type = "post"
 title = "Book 2, Page 9"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ title = "How I Draw, Part 3"
 author = "Maria Rice"
 featuredalt = ""
 categories = ["misc"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

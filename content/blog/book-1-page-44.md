@@ -10,6 +10,7 @@ date = "2017-06-24"
 featured = ""
 categories = ["book1"]
 preview = "/img/book1_prev/preview44.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

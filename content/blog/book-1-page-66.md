@@ -10,6 +10,7 @@ featured = ""
 author = "Maria Rice"
 title = "Book 1, Page 66"
 preview = "/img/book1_prev/preview66.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

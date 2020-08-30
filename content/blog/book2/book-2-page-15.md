@@ -10,6 +10,7 @@ featuredpath = "img/book2/page15.jpg"
 author = "Maria Rice"
 linktitle = ""
 featured = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

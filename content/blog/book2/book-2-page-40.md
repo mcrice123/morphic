@@ -10,6 +10,7 @@ linktitle = ""
 author = "Maria Rice"
 preview = "img/book2_prev/page40.jpg"
 featuredpath = "img/book2/page40.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ featuredalt = "Page54"
 featuredpath = "/img/book1/bw_page54.jpg"
 date = "2017-09-02"
 preview = "/img/book1_prev/preview54.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

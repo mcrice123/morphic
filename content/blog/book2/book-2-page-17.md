@@ -10,6 +10,7 @@ featuredpath = "img/book2/page17_2.jpg"
 date = "2018-07-13T18:09:14-05:00"
 featuredalt = ""
 author = "Maria Rice"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

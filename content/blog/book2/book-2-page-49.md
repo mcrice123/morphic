@@ -10,6 +10,7 @@ categories = ["book2"]
 description = ""
 preview = "img/book2_prev/page49.jpg"
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

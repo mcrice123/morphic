@@ -10,6 +10,7 @@ description = ""
 linktitle = ""
 featuredalt = "Page50"
 preview = "/img/book1_prev/preview50.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

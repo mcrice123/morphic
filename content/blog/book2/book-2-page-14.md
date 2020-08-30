@@ -10,6 +10,7 @@ title = "Book 2, Page 14"
 date = "2018-06-23T00:08:32-05:00"
 featuredpath = "img/book2/page14.jpg"
 featured = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ title = "Book 1 Page 10 REWORK"
 linktitle = ""
 date = "2019-01-05T12:03:47-06:00"
 preview = "img/misc_prev/status_update_01-05-19.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

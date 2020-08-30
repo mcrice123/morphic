@@ -10,6 +10,7 @@ linktitle = ""
 featuredpath = "img/misc/status_update_05-18-19.jpg"
 featured = ""
 date = "2019-05-18T15:04:11-05:00"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

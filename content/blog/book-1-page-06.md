@@ -10,6 +10,7 @@ featuredpath = "/img/book1/page06.jpg"
 featured = ""
 title = "Original Prologue, Page 6"
 preview = "/img/book1_prev/page06.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

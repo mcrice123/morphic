@@ -10,6 +10,7 @@ title = "Book 2, Page 22"
 featuredpath = "img/book2/page22.jpg"
 categories = ["book2"]
 preview = "img/book2_prev/page22.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ linktitle = ""
 date = "2018-11-16T13:49:11-06:00"
 author = "Maria Rice"
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ author = ""
 title = "Book 2, Page 12"
 featured = "Maria Rice"
 featuredpath = "img/book2/page12.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

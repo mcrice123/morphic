@@ -10,6 +10,7 @@ title = "Book 1, Page 27"
 featuredpath = "/img/book1/page27_2.jpg"
 linktitle = ""
 preview = "/img/book1_prev/page27_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ type = "post"
 description = ""
 title = "Original Prologue, Page 5"
 preview = "/img/book1_prev/page05.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

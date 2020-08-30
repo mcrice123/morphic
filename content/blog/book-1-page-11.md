@@ -10,6 +10,7 @@ categories = ["book1"]
 featuredpath = "/img/book1/page11_2.jpg"
 author = "Maria Rice"
 preview = "/img/book1_prev/page11_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

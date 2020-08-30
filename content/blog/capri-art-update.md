@@ -10,6 +10,7 @@ linktitle = ""
 featuredpath = "img/misc/capri_vines001W.jpg"
 title = "Intermission Art #3"
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

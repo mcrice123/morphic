@@ -10,6 +10,7 @@ featured = ""
 categories = ["misc"]
 date = "2018-09-22T22:54:53-05:00"
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

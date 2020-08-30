@@ -10,6 +10,7 @@ type = "post"
 title = "Merry Christmas 2016"
 categories = ["misc"]
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

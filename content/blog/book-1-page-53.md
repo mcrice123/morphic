@@ -10,6 +10,7 @@ title = "Book 1, Page 53"
 linktitle = ""
 categories = ["book1"]
 preview = "/img/book1_prev/preview53.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

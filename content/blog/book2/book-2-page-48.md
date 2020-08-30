@@ -10,6 +10,7 @@ type = "post"
 linktitle = ""
 featured = ""
 preview = "img/book2_prev/page48.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

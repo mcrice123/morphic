@@ -10,6 +10,7 @@ title = "Book 1, Page 31"
 featuredalt = "Page31"
 author = "Maria Rice"
 preview = "/img/book1_prev/page31_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

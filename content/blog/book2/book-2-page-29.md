@@ -10,6 +10,7 @@ date = "2018-10-06T11:13:26-05:00"
 type = "post"
 title = "Book 2, Page 29"
 featuredpath = "img/book2/page29.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

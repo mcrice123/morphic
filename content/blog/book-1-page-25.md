@@ -10,6 +10,7 @@ featured = ""
 categories = ["book1"]
 linktitle = ""
 preview = "/img/book1_prev/page25.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

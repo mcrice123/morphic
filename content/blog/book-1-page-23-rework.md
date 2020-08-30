@@ -10,6 +10,7 @@ date = "2019-01-11T16:58:18-06:00"
 categories = ["misc"]
 author = "Maria Rice"
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

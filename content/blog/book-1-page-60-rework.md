@@ -10,6 +10,7 @@ description = ""
 linktitle = ""
 categories = ["misc"]
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ featuredalt = "Page64"
 description = ""
 title = "Book 1, Page 64"
 preview = "/img/book1_prev/preview64.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

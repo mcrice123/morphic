@@ -10,6 +10,7 @@ description = ""
 date = "2018-07-07T11:31:18-05:00"
 featured = ""
 categories = ["book2"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

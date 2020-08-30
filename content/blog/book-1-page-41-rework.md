@@ -10,6 +10,7 @@ type = "post"
 linktitle = ""
 title = "Book 1 Page 41 REWORK"
 featuredpath = "img/misc/status_update_05-11-19.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

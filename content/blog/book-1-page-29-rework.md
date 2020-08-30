@@ -10,6 +10,7 @@ featured = ""
 featuredalt = ""
 description = ""
 categories = ["misc"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

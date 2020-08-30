@@ -10,6 +10,7 @@ preview = "img/misc_prev/status_update_03-09-19.jpg"
 author = "Maria Rice"
 title = "Book 1 Page 30 REWORK"
 linktitle = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

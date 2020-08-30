@@ -10,6 +10,7 @@ description = ""
 type = "post"
 date = "2019-11-09T09:17:06-06:00"
 featured = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

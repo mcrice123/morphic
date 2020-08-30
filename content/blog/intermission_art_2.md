@@ -10,6 +10,7 @@ featuredpath = "/img/misc/sirena_canissandro001W.jpg"
 title = "Intermission Art #2"
 linktitle = ""
 author = "Maria Rice"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

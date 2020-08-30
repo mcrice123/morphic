@@ -10,6 +10,7 @@ description = ""
 date = "2017-05-06"
 categories = ["book1"]
 preview = "/img/book1_prev/page37.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

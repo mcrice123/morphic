@@ -10,6 +10,7 @@ description = ""
 date = "2019-03-16T10:46:00-05:00"
 title = "Book 1 Page 32 REWORK"
 featured = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

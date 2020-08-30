@@ -10,6 +10,7 @@ date = "2019-01-25T19:46:36-06:00"
 linktitle = ""
 featuredalt = ""
 categories = ["misc"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

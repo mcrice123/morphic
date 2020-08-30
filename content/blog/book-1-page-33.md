@@ -10,6 +10,7 @@ type = "post"
 featuredalt = "Page33"
 featuredpath = "/img/book1/page33.jpg"
 preview = "/img/book1_prev/page33.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

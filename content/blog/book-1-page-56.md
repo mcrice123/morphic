@@ -10,6 +10,7 @@ date = "2017-09-16"
 categories = ["book1"]
 featuredalt = "Page56"
 preview = "/img/book1_prev/preview56.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 
