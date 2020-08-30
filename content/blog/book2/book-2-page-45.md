@@ -10,6 +10,7 @@ linktitle = ""
 featuredalt = ""
 featured = ""
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

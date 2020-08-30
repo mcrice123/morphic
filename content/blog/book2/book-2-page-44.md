@@ -10,6 +10,7 @@ featuredalt = ""
 author = "Maria Rice"
 date = "2020-01-04T07:32:47-06:00"
 preview = "img/book2_prev/page44.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

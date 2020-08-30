@@ -10,6 +10,7 @@ type = "post"
 linktitle = ""
 featuredpath = "/img/misc/morphicchristmas2018_colored.jpg"
 date = "2018-12-14T21:16:09-06:00"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

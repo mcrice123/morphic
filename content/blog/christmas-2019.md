@@ -10,6 +10,7 @@ linktitle = ""
 title = "Merry Christmas 2019"
 type = "post"
 preview = "/img/misc_prev/preview_morphic-christmas-2019.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

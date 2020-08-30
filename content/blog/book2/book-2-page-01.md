@@ -10,6 +10,7 @@ date = "2018-03-23T22:01:03-05:00"
 author = "Maria Rice"
 featuredalt = ""
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

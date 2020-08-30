@@ -10,6 +10,8 @@ description = ""
 author = "Maria Rice"
 featuredalt = ""
 title = "Book 2, Page 31"
+images = [ "img/main/seo_image.jpg" ]
+
 +++
 
 Sorry for the **_really_** late update!

@@ -10,6 +10,7 @@ linktitle = ""
 description = ""
 date = "2019-05-04T09:16:26-05:00"
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

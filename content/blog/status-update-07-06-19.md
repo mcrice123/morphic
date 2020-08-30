@@ -10,6 +10,7 @@ categories = ["misc"]
 author = "Maria Rice"
 title = "Status Update!"
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

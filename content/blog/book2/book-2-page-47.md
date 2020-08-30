@@ -10,6 +10,7 @@ featuredalt = ""
 preview = "img/book2_prev/page47.jpg"
 featuredpath = "img/book2/page47.jpg"
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

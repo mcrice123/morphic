@@ -10,6 +10,7 @@ featuredalt = ""
 description = ""
 categories = ["book2"]
 linktitle = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ date = "2018-01-12T17:20:59-06:00"
 description = ""
 featuredpath = "/img/book1/page69_2.jpg"
 preview = "/img/book1_prev/page69_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ author = "Maria Rice"
 preview = "img/misc_prev/preview_wolf_art.jpg"
 linktitle = ""
 featuredpath = "img/misc/wolf_art_colored.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

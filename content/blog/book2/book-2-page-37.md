@@ -10,6 +10,7 @@ author = "Maria Rice"
 type = "post"
 featuredpath = "img/book2/page37.jpg"
 linktitle = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

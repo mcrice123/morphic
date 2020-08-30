@@ -10,6 +10,7 @@ type = "post"
 date = "2019-03-30T18:31:17-05:00"
 title = "Book 1 Page 35 REWORK"
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ categories = ["misc"]
 preview = "img/misc_prev/status_update_02-01-19.jpg"
 featuredalt = ""
 title = "Book 1, Page 14 REWORK"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

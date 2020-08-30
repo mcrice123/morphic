@@ -10,6 +10,7 @@ categories = ["book1"]
 description = ""
 date = "2017-01-08T16:21:01-06:00"
 preview = "/img/book1_prev/page21.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

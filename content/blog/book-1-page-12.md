@@ -10,6 +10,7 @@ categories = ["book1"]
 linktitle = ""
 type = "post"
 preview = "/img/book1_prev/page12_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

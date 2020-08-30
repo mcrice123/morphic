@@ -10,6 +10,7 @@ author = "Maria Rice"
 type = "post"
 date = "2019-11-23T11:25:46-06:00"
 categories = ["book2"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

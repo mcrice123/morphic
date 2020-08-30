@@ -10,6 +10,7 @@ author = "Maria Rice"
 preview = "img/book2_prev/page19.jpg"
 type = "post"
 featuredpath = "img/book2/page19.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

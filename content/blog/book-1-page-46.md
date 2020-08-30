@@ -10,6 +10,7 @@ featuredalt = "Page46"
 featured = ""
 description = ""
 preview = "/img/book1_prev/preview46.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

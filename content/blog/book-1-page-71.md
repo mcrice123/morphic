@@ -10,6 +10,7 @@ featuredpath = "/img/book1/page71.jpg"
 date = "2018-01-20"
 categories = ["book1"]
 preview = "/img/book1_prev/page71.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

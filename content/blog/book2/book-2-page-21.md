@@ -10,6 +10,7 @@ featuredpath = "img/book2/page21.jpg"
 description = ""
 linktitle = ""
 categories = ["book2"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

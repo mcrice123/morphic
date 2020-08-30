@@ -10,6 +10,7 @@ categories = ["misc"]
 linktitle = ""
 featuredpath = "/img/misc/hid_pt1.JPG"
 featured = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

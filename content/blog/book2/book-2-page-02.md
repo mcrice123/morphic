@@ -10,6 +10,7 @@ featuredpath = "img/book2/page02.jpg"
 featured = ""
 date = "2018-03-30T22:12:39-05:00"
 categories = ["book2"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

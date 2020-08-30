@@ -10,6 +10,7 @@ author = "Maria Rice"
 featuredalt = "Page60"
 title = "Book 1, Page 60"
 preview = "/img/book1_prev/page60.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

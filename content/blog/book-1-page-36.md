@@ -10,6 +10,7 @@ description = ""
 date = "2017-04-29"
 type = "post"
 preview = "/img/book1_prev/page36.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

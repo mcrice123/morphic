@@ -10,6 +10,7 @@ linktitle = ""
 featuredalt = ""
 date = "2018-09-14T20:35:51-05:00"
 categories = ["book2"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

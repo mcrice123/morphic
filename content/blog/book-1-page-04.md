@@ -10,6 +10,7 @@ featuredalt = "Page4"
 author = "Maria Rice"
 title = "Original Prologue, Page 4"
 preview = "/img/book1_prev/page04.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

@@ -10,6 +10,7 @@ featured = ""
 featuredpath = "img/book2/page13.jpg"
 date = "2018-06-15T16:51:58-05:00"
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

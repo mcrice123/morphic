@@ -10,6 +10,7 @@ description = ""
 type = "post"
 featuredpath = "/img/misc/errie001W.jpg"
 featuredalt = "ErrieArt"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

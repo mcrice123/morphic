@@ -10,6 +10,7 @@ featured = ""
 description = ""
 type = "post"
 featuredalt = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

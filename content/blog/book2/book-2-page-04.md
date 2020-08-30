@@ -10,6 +10,7 @@ description = ""
 type = "post"
 author = "Maria Rice"
 title = "Book 2, Page 4"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

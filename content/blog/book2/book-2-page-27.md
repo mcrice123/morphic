@@ -10,6 +10,7 @@ description = ""
 type = "post"
 date = "2018-09-22T22:52:12-05:00"
 categories = ["book2"]
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

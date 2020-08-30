@@ -10,6 +10,7 @@ description = ""
 date = "2019-08-17T10:25:39-05:00"
 categories = ["book2"]
 author = "Maria Rice"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

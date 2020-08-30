@@ -10,6 +10,7 @@ type = "post"
 featuredalt = ""
 preview = "img/book2_prev/page41.jpg"
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

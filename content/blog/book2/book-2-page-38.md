@@ -10,6 +10,7 @@ linktitle = ""
 featuredpath = "img/book2/page38.jpg"
 featured = ""
 title = "Book 2, Page 38"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

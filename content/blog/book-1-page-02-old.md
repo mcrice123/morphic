@@ -10,6 +10,7 @@ featured = ""
 date = "2018-03-18T08:50:18-06:00"
 type = "post"
 preview = "/img/book1_prev/page02.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

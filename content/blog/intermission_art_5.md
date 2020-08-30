@@ -10,6 +10,7 @@ author = "Maria Rice"
 linktitle = ""
 featured = ""
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

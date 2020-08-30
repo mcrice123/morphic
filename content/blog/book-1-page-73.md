@@ -10,6 +10,7 @@ featuredalt = "Page73"
 description = ""
 date = "2018-02-04"
 preview = "/img/book1_prev/preview73.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

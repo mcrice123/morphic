@@ -10,6 +10,7 @@ type = "post"
 date = "2018-09-01T10:07:43-05:00"
 categories = ["book2"]
 linktitle = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

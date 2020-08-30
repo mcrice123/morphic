@@ -10,6 +10,7 @@ featured = ""
 date = "2018-08-24T22:38:33-05:00"
 featuredalt = ""
 preview = "img/book2_prev/page23.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

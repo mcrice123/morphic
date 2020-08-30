@@ -10,6 +10,7 @@ preview = "img/book2_prev/page34.jpg"
 categories = ["book2"]
 author = "Maria Rice"
 type = "post"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

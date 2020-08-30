@@ -10,6 +10,7 @@ date = "2017-12-16T17:30:16-06:00"
 title = "Merry Christmas 2017"
 linktitle = ""
 featuredalt = "MerryChristmas"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

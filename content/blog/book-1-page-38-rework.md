@@ -10,6 +10,7 @@ featuredalt = ""
 linktitle = ""
 type = "post"
 title = "Book 1 Page 38 REWORK"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

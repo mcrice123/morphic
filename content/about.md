@@ -7,6 +7,7 @@ description = ""
 type = "about"
 weight = 2
 date = "2018-01-23"
+images = [ "img/main/seo_image.jpg" ]
 +++
 
 {{< img-post "/img/inline" "maria-rice_logo_transparent.png" "Maria Rice logo -- black cat with a bowl of rice" "right" >}}

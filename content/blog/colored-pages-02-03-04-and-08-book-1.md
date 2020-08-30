@@ -10,6 +10,7 @@ author = "Maria Rice"
 description = ""
 categories = ["misc"]
 featuredalt = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

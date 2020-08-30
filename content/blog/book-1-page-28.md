@@ -10,6 +10,7 @@ description = ""
 author = "Maria Rice"
 type = "post"
 preview = "/img/book1_prev/page28_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

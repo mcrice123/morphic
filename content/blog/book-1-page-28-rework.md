@@ -10,6 +10,7 @@ categories = ["misc"]
 preview = "img/misc_prev/status_update_01-19-19.jpg"
 featuredpath = "img/misc/status_update_01-19-19.jpg"
 featuredalt = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

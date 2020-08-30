@@ -10,6 +10,7 @@ categories = ["book1"]
 featuredalt = "Page29"
 featured = ""
 preview = "/img/book1_prev/page29_2.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

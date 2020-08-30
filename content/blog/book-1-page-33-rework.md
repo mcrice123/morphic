@@ -10,6 +10,7 @@ featuredpath = "img/misc/status_update_03-23-19.jpg"
 featuredalt = ""
 description = ""
 author = "Maria Rice"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

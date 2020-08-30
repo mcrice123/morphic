@@ -10,6 +10,7 @@ description = ""
 date = "2017-08-12"
 linktitle = ""
 preview = "/img/book1_prev/preview51.jpg"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

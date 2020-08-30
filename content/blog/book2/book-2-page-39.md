@@ -10,6 +10,7 @@ featured = ""
 categories = ["book2"]
 preview = "img/book2_prev/page39.jpg"
 title = "Book 2, Page 39"
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 

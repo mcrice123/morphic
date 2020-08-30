@@ -10,6 +10,7 @@ title = "Book 1, Page 22 REWORK"
 linktitle = ""
 featured = ""
 description = ""
+images = [ "img/main/seo_image.jpg" ]
 
 +++
 
