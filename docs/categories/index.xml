@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Morphic Graphic Novel Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mcrice123.github.io/morphic/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>misc</title>
+      <link>https://mcrice123.github.io/morphic/categories/misc/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcrice123.github.io/morphic/categories/misc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>book2</title>
@@ -17,15 +26,6 @@
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mcrice123.github.io/morphic/categories/book2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misc</title>
-      <link>https://mcrice123.github.io/morphic/categories/misc/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mcrice123.github.io/morphic/categories/misc/</guid>
       <description></description>
     </item>
     
